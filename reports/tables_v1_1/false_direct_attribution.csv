@@ -1,0 +1,17 @@
+model_id,role,n_channel_worlds,false_direct_attribution_rate
+M0_ols,feeder,286,0.08391608391608392
+M0_ols,isolated,194,0.13917525773195877
+M1_ridge,feeder,286,0.055944055944055944
+M1_ridge,isolated,194,0.0979381443298969
+M2_adstock_sat,feeder,286,0.6468531468531469
+M2_adstock_sat,isolated,194,0.6701030927835051
+M2_adstock_sat_noZ,feeder,286,0.7132867132867133
+M2_adstock_sat_noZ,isolated,194,0.6958762886597938
+M2p_true_transforms,feeder,286,0.48951048951048953
+M2p_true_transforms,isolated,194,0.5051546391752577
+M2p_true_transforms_plus_D,feeder,286,0.4160839160839161
+M2p_true_transforms_plus_D,isolated,194,0.4072164948453608
+M3_pymc_marketing,feeder,21,0.14285714285714285
+M3_pymc_marketing,isolated,15,0.2
+M4_oracle_plugin,feeder,3,0.0
+M4_oracle_plugin,isolated,1,0.0
