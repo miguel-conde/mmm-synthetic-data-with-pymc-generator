@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+
+# Tool caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# Local config, secrets, editor/OS files
+.env
+.env.*
+!.env.example
+.claude/
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Local knowledge-graph output
+graphify-out/
+
+# Benchmark artefacts (regenerable from configs + seeds)
+runs/
