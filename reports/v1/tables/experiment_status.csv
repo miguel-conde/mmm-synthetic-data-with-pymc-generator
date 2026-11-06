@@ -1,0 +1,16 @@
+experiment,name,status,evidence
+E00,Sanidad del generador,completed,tests + F0 bundles + worlds.csv
+E01,Recuperación fácil (S0),completed,matriz S0 × T × modelo
+E02,Adstock y saturación,partial,M0/M1 vs M2 vs M2p (forma funcional); sin barrido controlado de familias
+E03,Confusión latente (S1),completed,S1 vs S0; M2p vs M2p_D
+E04,Control observado y mediación (S2),completed,M2 vs M2_noZ
+E05,Halo y nulos (S3/S4),completed,falsas atribuciones y feeders
+E06,Predicción vs atribución,completed,rankings por mundo
+E07,Incertidumbre,completed,cobertura M3/M4
+E08,Intervención real,completed,motor do validado
+E09,Valor de decisiones,completed,regret con motor do
+E10,Cambio de distribución,not_run_v1,—
+E11,DML / Causal Forest,not_run_v1,—
+E12,MMM neuronal estructurado,not_run_v1,—
+E13,Generador fuera de alcance,not_applicable_v1,—
+E14,Multicolinealidad sin confusión,partial_observational_strata,estratos de correlación observada en S0 (diseño controlado no implementado)

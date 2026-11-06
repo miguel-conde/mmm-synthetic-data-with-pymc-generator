@@ -1,0 +1,9 @@
+model_id,role,N_channel_worlds,false_attribution_rate
+M0_ols,feeder,286,0.08391608391608392
+M1_ridge,feeder,286,0.055944055944055944
+M2_adstock_sat,feeder,286,0.6468531468531469
+M2_adstock_sat_noZ,feeder,286,0.7132867132867133
+M2p_true_transforms,feeder,286,0.48951048951048953
+M2p_true_transforms_plus_D,feeder,286,0.4160839160839161
+M3_pymc_marketing,feeder,21,0.14285714285714285
+M4_oracle_plugin,feeder,3,0.0
