@@ -1,0 +1,12 @@
+name: v1_1_full_refit
+phase: v1.1-D2
+description: "Sensibilidad historical_full_refit (D2): modelos rápidos ciegos reajustados sobre las T semanas en los 45 mundos F2 réplicas 0-2; atribución en [8, T). Separado del análisis principal."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [52, 104, 208]
+replicates: [0, 1, 2]
+fast_models: [M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ]
+expensive_models: {}
+causal_models: []
+run_e08: false
+run_e09: false
+fit_scope: full

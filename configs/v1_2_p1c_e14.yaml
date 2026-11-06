@@ -1,0 +1,16 @@
+name: v1_2_p1c_e14
+phase: v1.2-P1c
+description: "E14 piloto de diseño (docs/protocolo_P1_registrado.md Anexo B; docs/protocolo_P1B_registrado.md §6): direct_only con edge_budget zc=6, zy=0, dc=0, cc=0 (cy=4, dy=1 por conectividad), zc_coeff_range en {0, 1.5, 3.0}, T=104, 30 réplicas pareadas. Solo puerta de diseño; los ajustes requieren pasar la puerta."
+scenarios: [direct_only]
+horizons: [104]
+replicates: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+variants:
+  p1czc000: {zc_coeff_range: [0.0, 0.0], edge_budget: {zc: [6, 6], zy: [0, 0], dc: [0, 0], cc: [0, 0]}}
+  p1czc150: {zc_coeff_range: [1.5, 1.5], edge_budget: {zc: [6, 6], zy: [0, 0], dc: [0, 0], cc: [0, 0]}}
+  p1czc300: {zc_coeff_range: [3.0, 3.0], edge_budget: {zc: [6, 6], zy: [0, 0], dc: [0, 0], cc: [0, 0]}}
+fast_models: [M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ, M2p_true_transforms, M5_xgboost, M6_lightgbm]
+expensive_models: {}
+causal_models: [M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ, M2p_true_transforms]
+causal_subset: {}
+run_e09: false
+fit_scope: train_after_warmup

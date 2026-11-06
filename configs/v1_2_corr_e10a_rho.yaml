@@ -1,0 +1,17 @@
+name: v1_2_corr_e10a_rho
+phase: v1.2-P1-corrected-baselines
+description: "E10A_rho: innovaciones compartidas tratamiento-base. Estructura direct_only (sin D->C), confounding_strength_range en {1e-6, 0.3, 0.6} (1e-6 en lugar de 0 para conservar el mismo flujo de innovaciones; verificado). Mundos pareados. T=104, 10 réplicas."
+scenarios: [direct_only]
+horizons: [104]
+replicates: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+variants:
+  rho000: {confounding_strength_range: [0.000001, 0.000001]}
+  rho030: {confounding_strength_range: [0.3, 0.3]}
+  rho060: {confounding_strength_range: [0.6, 0.6]}
+fast_models: [M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ, M2p_true_transforms, M2p_true_transforms_plus_D,
+              M5_xgboost, M6_lightgbm]
+expensive_models: {}
+causal_models: [M0_ols, M1_ridge, M2_adstock_sat, M2p_true_transforms, M2p_true_transforms_plus_D]
+causal_subset: {}
+run_e09: false
+fit_scope: train_after_warmup

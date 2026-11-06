@@ -1,0 +1,13 @@
+name: extended
+phase: F3
+description: "F3 extensión: 5 x 3 x 40 = 600 mundos (incluye los 150 de F2: mismas semillas, mundos leídos de la caché runs/_worlds), solo modelos rápidos, sin E08/E09."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [52, 104, 208]
+replicates: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+             20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+fast_models: [N0_naive_last, N1_naive_mean, M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ,
+              M2p_true_transforms, M2p_true_transforms_plus_D, M5_xgboost, M6_lightgbm]
+expensive_models: {}
+causal_models: []
+run_e08: false
+run_e09: false

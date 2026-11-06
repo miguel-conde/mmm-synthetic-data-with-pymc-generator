@@ -1,0 +1,15 @@
+name: v1_2_p1b_abc_w8
+phase: v1.2-P1B
+description: "Control A/B/C: brazo C (verosimilitud enmascarada [8, n), escala max Y[8:n)). Registrado en docs/protocolo_P1B_registrado.md."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [52, 104, 208]
+replicates: [0, 1, 2]
+world_list: [S0_direct_only_T52_r01, S0_direct_only_T208_r01, S1_confounded_treatment_T208_r02, S2_promo_drives_treatment_T104_r02, S2_promo_drives_treatment_T208_r02, S3_treatment_halo_T52_r02]
+fast_models: []
+expensive_models:
+  M3_pymc_marketing@C: {draws: 1000, tune: 1000, chains: 4, cores: 2, target_accept: 0.99, prior_variant: v3, keep_posterior: true}
+expensive_subset: {}
+causal_models: []
+run_e08: false
+run_e09: false
+fit_scope: train_after_warmup

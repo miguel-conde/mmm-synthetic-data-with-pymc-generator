@@ -1,0 +1,16 @@
+name: v1_1_e02_linear
+phase: v1.1-E02
+description: "Control lineal E02: direct_only con nonlinearity=linear (arrastre none + saturación identidad), 3 T x 10 réplicas = 30 mundos. M3 (variante elegida en D4) se añade después en réplicas 0-2."
+scenarios: [direct_only]
+horizons: [52, 104, 208]
+replicates: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+variants:
+  linear: {nonlinearity: linear}
+fast_models: [N0_naive_last, N1_naive_mean, M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ,
+              M2p_true_transforms, M2p_true_transforms_plus_D, M5_xgboost, M6_lightgbm]
+expensive_models:
+  M3_pymc_marketing@v3: {draws: 1000, tune: 1000, chains: 4, cores: 2, target_accept: 0.99, prior_variant: v3}
+expensive_subset: {replicates: [0, 1, 2]}
+causal_models: [M0_ols, M1_ridge, M2_adstock_sat, M2p_true_transforms, M3_pymc_marketing@v3]
+causal_subset: {replicates: [0, 1, 2]}
+run_e09: false

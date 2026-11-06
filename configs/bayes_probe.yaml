@@ -1,0 +1,14 @@
+name: bayes_probe
+phase: F1-probe
+description: "Medición de coste de M3/M4 en un único mundo (S0, T=104) con el presupuesto de exploración 2x(500+500), antes de lanzar lotes."
+scenarios: [direct_only]
+horizons: [104]
+replicates: [0]
+fast_models: []
+expensive_models:
+  M3_pymc_marketing: {draws: 500, tune: 500, chains: 2, cores: 2}
+  M4_oracle_plugin: {draws: 500, tune: 500, chains: 2, cores: 2}
+expensive_subset: {}
+causal_models: []
+run_e08: false
+run_e09: false

@@ -1,0 +1,12 @@
+name: smoke
+phase: F0
+description: "F0 inspección + smoke: 5 escenarios x 1 mundo x 104 semanas, bundles completos, modelos rápidos, motor do."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [104]
+replicates: [0]
+fast_models: [N0_naive_last, N1_naive_mean, M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ,
+              M2p_true_transforms, M2p_true_transforms_plus_D, M5_xgboost, M6_lightgbm]
+expensive_models: {}
+causal_models: [M0_ols, M1_ridge, M2_adstock_sat, M2p_true_transforms, M5_xgboost, M6_lightgbm]
+causal_subset: {}
+write_bundles: true

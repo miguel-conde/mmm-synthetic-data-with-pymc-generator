@@ -1,0 +1,14 @@
+name: v1_1_m4_diag
+phase: v1.1-D7
+description: "Diagnóstico del oracle (D7): los 3 mundos M4 de v1 con mayor rhat_max (regla pre-registrada). Variantes: marginal con target_accept 0.95 y latent=sampled. Sin ampliar M4 salvo mejora clara."
+scenarios: [promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [104]
+replicates: [0]
+fast_models: []
+expensive_models:
+  M4_oracle_plugin@marginal_ta095: {draws: 1000, tune: 1000, chains: 2, cores: 2, latent: marginal, target_accept: 0.95}
+  M4_oracle_plugin@sampled_ta090: {draws: 1000, tune: 1000, chains: 2, cores: 2, latent: sampled, target_accept: 0.9}
+expensive_subset: {}
+causal_models: []
+run_e08: false
+run_e09: false

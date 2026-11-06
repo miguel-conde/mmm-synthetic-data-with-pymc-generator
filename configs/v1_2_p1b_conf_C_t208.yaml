@@ -1,0 +1,14 @@
+name: v1_2_p1b_conf_C_t208
+phase: v1.2-P1B-confirmatory
+description: "Evaluación confirmatoria M3 (docs/protocolo_P1B_registrado.md §3 y anexo): brazo C, muestreo S1 congelado, mundos core réplicas 3-5, horizontes [208]."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [208]
+replicates: [3, 4, 5]
+fast_models: []
+expensive_models:
+  M3_pymc_marketing@C_S1: {draws: 2000, tune: 2000, chains: 4, cores: 2, target_accept: 0.99, prior_variant: v3, keep_posterior: true}
+expensive_subset: {}
+causal_models: []
+run_e08: false
+run_e09: false
+fit_scope: train_after_warmup
