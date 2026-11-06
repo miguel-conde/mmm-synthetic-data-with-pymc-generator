@@ -27,12 +27,18 @@ def rope_revised(row) -> str:
     return "indeterminado"
 
 
-def table(arms: dict[str, tuple[str, str]]) -> pd.DataFrame:
+def table(arms: dict[str, list[tuple[str, str]]]) -> pd.DataFrame:
     from .audit_v1_2 import spec_from_world_id
     from .generator_adapter import WorldStore, structure_cell_id
     from .runner import WORLD_CACHE
 
-    df = pd.DataFrame(sum((channel_rows(run, mid, lab) for lab, (run, mid) in arms.items()), []))
+    parts = []
+    for lab, runs in arms.items():
+        for run, mid in runs:
+            d = pd.DataFrame(channel_rows(run, mid, lab))
+            d["run"], d["model_id"] = run, mid
+            parts.append(d)
+    df = pd.concat(parts, ignore_index=True)
     store = WorldStore(WORLD_CACHE)
     cells = {w: structure_cell_id(store.get(spec_from_world_id(w)).g) for w in df.world_id.unique()}
     df["structure_cell_id"] = df.world_id.map(cells)
@@ -42,8 +48,7 @@ def table(arms: dict[str, tuple[str, str]]) -> pd.DataFrame:
         if r.window != "historical_in_sample_fit" or r.fit_status != "ok":
             p_gt.append(np.nan)
             continue
-        run, mid = arms[r.variant]
-        post = np.load(ROOT / "runs" / run / "results" / r.world_id / f"{mid}.posterior.npz")
+        post = np.load(ROOT / "runs" / r.run / "results" / r.world_id / f"{r.model_id}.posterior.npz")
         p_gt.append(float(np.mean(post["contrib_mean_w8_train"][:, r.channel] > r.rope_delta)))
     df["p_gt"] = p_gt
     df["rope_revised"] = [rope_revised(r) if np.isfinite(r.p_gt) else None for r in df.itertuples()]
