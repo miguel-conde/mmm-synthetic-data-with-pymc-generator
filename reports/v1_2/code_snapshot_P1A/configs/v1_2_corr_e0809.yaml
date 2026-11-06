@@ -1,0 +1,14 @@
+name: v1_2_corr_e0809
+phase: v1.2-P1-corrected-baselines
+description: "Corrección E08/E09 con modelos rápidos (configs/v1_1_e09.yaml sin M3: mismos 45 mundos causales, mismas semillas, random_feasible y selected_channels) con fit_scope train_after_warmup. Las políticas de M3 esperan al nuevo ajuste M3."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [52, 104, 208]
+replicates: [0, 1, 2]
+fast_models: [M0_ols, M1_ridge, M2_adstock_sat, M2p_true_transforms, M5_xgboost, M6_lightgbm]
+expensive_models: {}
+expensive_subset: {}
+causal_models: [M0_ols, M1_ridge, M2_adstock_sat, M2p_true_transforms, M5_xgboost, M6_lightgbm]
+causal_subset: {}
+e09_random: true
+e09_selected_channels: true
+fit_scope: train_after_warmup

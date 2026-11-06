@@ -1,0 +1,20 @@
+name: v1_1_m3_diag
+phase: v1.1-D4
+description: "Diagnóstico M3 (D4): 10 mundos no convergidos de F2 (2 por escenario, selección por diagnóstico, sin verdad). V0 = v1; V1/V2 = target_accept 0.95/0.99. Se guarda la posterior. Ver docs/revision_v1_1.md §3.1."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [104, 208]
+replicates: [0, 1, 2]
+world_list: [S0_direct_only_T208_r00, S0_direct_only_T208_r01, S1_confounded_treatment_T104_r00,
+             S1_confounded_treatment_T104_r01, S2_promo_drives_treatment_T104_r01, S2_promo_drives_treatment_T104_r02,
+             S3_treatment_halo_T104_r00, S3_treatment_halo_T104_r02, S4_kitchen_sink_T104_r00, S4_kitchen_sink_T104_r01]
+fast_models: []
+expensive_models:
+  M3_pymc_marketing@v0_ta090: {draws: 1000, tune: 1000, chains: 4, cores: 2, target_accept: 0.9, keep_posterior: true}
+  M3_pymc_marketing@v1_ta095: {draws: 1000, tune: 1000, chains: 4, cores: 2, target_accept: 0.95, keep_posterior: true}
+  M3_pymc_marketing@v2_ta099: {draws: 1000, tune: 1000, chains: 4, cores: 2, target_accept: 0.99, keep_posterior: true}
+  # registered in reports/mcmc_diagnostics.md §4 after V0-V2 geometry, before running
+  M3_pymc_marketing@v3_ta099_lamG62: {draws: 1000, tune: 1000, chains: 4, cores: 2, target_accept: 0.99, prior_variant: v3, keep_posterior: true}
+expensive_subset: {}
+causal_models: []
+run_e08: false
+run_e09: false

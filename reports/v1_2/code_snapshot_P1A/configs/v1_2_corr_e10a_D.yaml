@@ -1,0 +1,17 @@
+name: v1_2_corr_e10a_D
+phase: v1.2-P1-corrected-baselines
+description: "E10A_D: confusión estructural. Estructura confounded_treatment, dc_coeff_range en {0, 0.25, 0.5}, rho por defecto (0). Mundos pareados (misma semilla: mismo DAG, mismos parámetros salvo w_dc, mismas innovaciones). T=104, 10 réplicas."
+scenarios: [confounded_treatment]
+horizons: [104]
+replicates: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+variants:
+  dc000: {dc_coeff_range: [0.0, 0.0]}
+  dc025: {dc_coeff_range: [0.25, 0.25]}
+  dc050: {dc_coeff_range: [0.5, 0.5]}
+fast_models: [M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ, M2p_true_transforms, M2p_true_transforms_plus_D,
+              M5_xgboost, M6_lightgbm]
+expensive_models: {}
+causal_models: [M0_ols, M1_ridge, M2_adstock_sat, M2p_true_transforms, M2p_true_transforms_plus_D]
+causal_subset: {}
+run_e09: false
+fit_scope: train_after_warmup

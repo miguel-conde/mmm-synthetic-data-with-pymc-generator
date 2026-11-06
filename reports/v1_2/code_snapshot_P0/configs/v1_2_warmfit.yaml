@@ -1,0 +1,13 @@
+name: v1_2_warmfit
+phase: v1.2-P0
+description: "Corrección P0 demostrada: los modelos rápidos se ajustaban desde la semana 0, donde su adstock arranca con historia cero mientras el generador tiene 8 semanas de burn-in. Aquí se ajustan en [8, n_train) conservando las semanas 0-7 solo como historia de tratamiento. Mismos 150 mundos de F2; sin MCMC; sin E08/E09."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [52, 104, 208]
+replicates: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+fast_models: [N0_naive_last, N1_naive_mean, M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ,
+              M2p_true_transforms, M2p_true_transforms_plus_D, M5_xgboost, M6_lightgbm]
+expensive_models: {}
+causal_models: []
+run_e08: false
+run_e09: false
+fit_scope: train_after_warmup

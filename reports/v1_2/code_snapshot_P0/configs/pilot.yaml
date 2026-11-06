@@ -1,0 +1,15 @@
+name: pilot
+phase: F1
+description: "F1 piloto: 5 escenarios x {52,104,208} x 3 réplicas = 45 mundos, todos los modelos rápidos. M3/M4 en 1 mundo por escenario (T=104, r0), subconjunto fijado antes de ver métricas. E08/E09 en réplica 0 (15 mundos)."
+scenarios: [direct_only, confounded_treatment, promo_drives_treatment, treatment_halo, kitchen_sink]
+horizons: [52, 104, 208]
+replicates: [0, 1, 2]
+fast_models: [N0_naive_last, N1_naive_mean, M0_ols, M1_ridge, M2_adstock_sat, M2_adstock_sat_noZ,
+              M2p_true_transforms, M2p_true_transforms_plus_D, M5_xgboost, M6_lightgbm]
+# budgets set after the single-world probe (configs/bayes_probe.yaml): 2x500 was not converged for either
+expensive_models:
+  M3_pymc_marketing: {draws: 1000, tune: 1000, chains: 4, cores: 2}
+  M4_oracle_plugin: {draws: 1000, tune: 1000, chains: 2, cores: 2}
+expensive_subset: {horizons: [104], replicates: [0]}
+causal_models: [M0_ols, M1_ridge, M2_adstock_sat, M2p_true_transforms, M3_pymc_marketing, M5_xgboost, M6_lightgbm]
+causal_subset: {replicates: [0]}

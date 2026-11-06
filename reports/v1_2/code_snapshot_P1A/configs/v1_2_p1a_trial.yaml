@@ -1,0 +1,18 @@
+name: v1_2_p1a_trial
+phase: v1.2-P1a-trial
+description: "Ensayo mínimo P1a (3-5 mundos): M3 V3 con verosimilitud enmascarada (semanas 0-7 solo historia de arrastre; verosimilitud y escala de Y en [8, n_train)). Incluye E02 lineal y dos mundos no lineales (S0 geométrico; S4 con Weibull). Comprobación técnica de muestreo y extracción; no es evidencia científica."
+scenarios: [direct_only, kitchen_sink]
+horizons: [104]
+replicates: [0, 1]
+variants:
+  "": {}
+  linear: {nonlinearity: linear}
+world_list: [S0_direct_only_T104_r00__linear, S0_direct_only_T104_r01__linear, S0_direct_only_T104_r00, S4_kitchen_sink_T104_r00]
+fast_models: []
+expensive_models:
+  M3_pymc_marketing@v3m: {draws: 1000, tune: 1000, chains: 4, cores: 2, target_accept: 0.99, prior_variant: v3, keep_posterior: true}
+expensive_subset: {}
+causal_models: []
+run_e08: false
+run_e09: false
+fit_scope: train_after_warmup
