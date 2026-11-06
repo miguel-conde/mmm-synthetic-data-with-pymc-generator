@@ -81,3 +81,19 @@
   - E10A `v1_2_p1b_e10a_{dc,dy,rho}` (3 × 120 mundos).
 - **Entrega A:** respuesta **no concluyente** (4 de 10 mundos con ambos ajustes válidos). Por la regla de interrupción, no se amplía M3 y no se inician las variantes de la Entrega B.
 - **E14:** sonda de diseño. El rango por defecto de `zc` no separa la correlación; los niveles propuestos (0 / 1,5 / 3,0) están pendientes de confirmación. No se ejecuta.
+
+## 2026-11-06 — v1.2 P1B (respuesta del diseñador RESPUESTA_AL_AGENTE_MMM_POST_P1_ENTREGA_A.md)
+
+- **Congelación previa:** P1A en `reports/v1_2/FREEZE_MANIFEST_P1A.json` (20 597 hashes, con snapshot). Protocolo: `docs/protocolo_P1B_registrado.md`.
+- **A/B/C** (6 mundos con escala distinta): la escala no influye (B − A ≈ 0); todo el efecto es del enmascaramiento. En el piloto de la Entrega A la escala ya era idéntica.
+- **Muestreo** (10 mundos de desarrollo): S0r 7/10, S1 (2000 + 2000) 9/10, S2 (rango bajo) 5/10. Se elige S1 y la puerta pasa.
+- **Confirmatorio** (F2 réplicas 3–5, 37 pares válidos):
+  - sesgo en directos −0,045 → −0,021;
+  - cobertura 95 % 0,42 → 0,56;
+  - aumenta la contribución espuria en aislados;
+  - M3 nunca declara «no relevante».
+- **E10A, cierre analítico:** la confusión se verifica en el DAG; con ±10 %, sobreestimación de la magnitud del efecto en canales confundidos; M2p_D ≈ 0.
+- **E14, puerta de diseño:** no pasa por cambios de márgenes y separación justa. No se ajusta.
+- **Auditoría M2:** selección inestable (62 % de formas cambian al quitar 8 filas). M2v2 solo como diseño.
+- **Defecto propio corregido:** E-BFMI con arviz 1.x (relanzado). Seis mundos duplicados por la paralelización registrada.
+- **Tests:** 108 pasan. Estado: `reports/scientific_status_P1B.md`. Congelado: `reports/v1_2/FREEZE_MANIFEST_P1B.json`. Respuesta: `docs/respuesta_P1B_al_disenador.md`.

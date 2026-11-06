@@ -1,0 +1,13 @@
+brazo,subconjunto,rol,n_canales,n_mundos,sensibilidad,IC_sens,falsos_pos,IC_fp,precisión,no_relevante_correcto,IC_nr,abstención
+legacy_w0,pares válidos,direct,142,37,0.6549295774647887,"[0.59, 0.72] (den 142)",,"[nan, nan] (den 0)",1.0,,(den 0),0.34507042253521125
+legacy_w0,pares válidos,feeder,14,13,,"[nan, nan] (den 0)",0.21428571428571427,"[0.00, 0.43] (den 14)",0.0,0.0,(den 14),0.7857142857142857
+legacy_w0,pares válidos,isolated,12,12,,"[nan, nan] (den 0)",0.4166666666666667,"[0.17, 0.67] (den 12)",0.0,0.0,(den 12),0.5833333333333334
+legacy_w0,todos,direct,171,45,0.6549707602339181,"[0.59, 0.71] (den 171)",,"[nan, nan] (den 0)",1.0,,(den 0),0.34502923976608185
+legacy_w0,todos,feeder,20,18,,"[nan, nan] (den 0)",0.2,"[0.05, 0.36] (den 20)",0.0,0.0,(den 20),0.8
+legacy_w0,todos,isolated,16,16,,"[nan, nan] (den 0)",0.375,"[0.12, 0.62] (den 16)",0.0,0.0625,(den 16),0.5625
+corrected_w8,pares válidos,direct,142,37,0.7676056338028169,"[0.69, 0.84] (den 142)",,"[nan, nan] (den 0)",1.0,,(den 0),0.2323943661971831
+corrected_w8,pares válidos,feeder,14,13,,"[nan, nan] (den 0)",0.14285714285714285,"[0.00, 0.31] (den 14)",0.0,0.0,(den 14),0.8571428571428571
+corrected_w8,pares válidos,isolated,12,12,,"[nan, nan] (den 0)",0.5,"[0.25, 0.75] (den 12)",0.0,0.0,(den 12),0.5
+corrected_w8,todos,direct,171,45,0.7602339181286549,"[0.69, 0.83] (den 171)",,"[nan, nan] (den 0)",1.0,,(den 0),0.23976608187134502
+corrected_w8,todos,feeder,20,18,,"[nan, nan] (den 0)",0.15,"[0.00, 0.29] (den 20)",0.0,0.0,(den 20),0.85
+corrected_w8,todos,isolated,16,16,,"[nan, nan] (den 0)",0.5625,"[0.31, 0.81] (den 16)",0.0,0.0625,(den 16),0.375

@@ -79,6 +79,16 @@ MPLBACKEND=Agg uv run --locked python -c "from mmm_benchmark import p1b; p1b.wri
 
 MCMC con la misma semilla no siempre es bit a bit reproducible (diferencias de hasta ≈ 3 % en contribuciones).
 
+### v1.2 P1B
+
+P1A está congelado en `reports/v1_2/FREEZE_MANIFEST_P1A.json` y P1B en `reports/v1_2/FREEZE_MANIFEST_P1B.json`. Protocolo: [docs/protocolo_P1B_registrado.md](docs/protocolo_P1B_registrado.md). Índice: [reports/review_package_index_P1B.md](reports/review_package_index_P1B.md).
+
+```bash
+for c in abc_w0 abc_w8 samp_S0r samp_S1 samp_S2 conf_A_t52_104 conf_A_t208 conf_C_t52_104 conf_C_t208; do scripts/run_phase.sh configs/v1_2_p1b_$c.yaml 5; done
+MPLBACKEND=Agg uv run --locked python -c "from mmm_benchmark import p1b_m3, p1b_robust, m2_audit, p1c; p1b_m3.abc_report(); p1b_m3.sampling_report(); p1b_robust.write_report(); m2_audit.write_report(); p1c.write_report()"
+# confirmatorio: mmm_benchmark.p1b_confirm.write_report(arms, "S1"), con los 4 runs v1_2_p1b_conf_*
+```
+
 ## Estructura
 
 ```text

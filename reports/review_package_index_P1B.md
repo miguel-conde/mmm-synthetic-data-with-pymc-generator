@@ -10,7 +10,9 @@ Los índices anteriores (`review_package_index.md` de P0 y `review_package_index
 | Estado congelado previo | `v1_2/FREEZE_MANIFEST_P1A.json` (20 597 hashes) + `v1_2/code_snapshot_P1A/`; P0, v1 y v1.1 intactos |
 | Versiones | `uv.lock` sin cambios desde v1 (pymc-marketing 1.3.0, pymc 6.3.2, nutpie 0.16.11, pymc-generator `fb9549d`); huella de entorno en `runs/*/manifest.json` (`sessions`) |
 | Semillas | `derive_seed(world_id, "M3_pymc_marketing", "fit")` para M3 (todos los brazos y variantes); mundos: `WorldSpec.config_seed` / `world_seed` |
-| Tests | `v1_2/p1b_m3/pytest_p1b.{txt,xml}` |
+| Tests | `v1_2/p1b_m3/pytest_p1b.{txt,xml}` (108 pasan) |
+| Congelación P1B | `v1_2/FREEZE_MANIFEST_P1B.json` + `v1_2/code_snapshot_P1B/` |
+| Respuesta | [../docs/respuesta_P1B_al_disenador.md](../docs/respuesta_P1B_al_disenador.md) |
 | Estado científico | [scientific_status_P1B.md](scientific_status_P1B.md) |
 
 ## Entregables

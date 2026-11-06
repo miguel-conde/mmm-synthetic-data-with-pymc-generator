@@ -1,0 +1,14 @@
+H,afirmación,estado,base,nota
+H1,Buen pronóstico de Y no garantiza recuperar contribuciones,provisional,"P0: coincidencia del mejor 0,31 vs 0,25 por azar; Spearman 0,17 (F2, `corrected_w8`, 4 modelos ciegos)",sin cambios en P1B
+H2,Más semanas mejoran la recuperación sin garantizar identificación,no concluyente,P0,sin cambios
+H3,La confusión latente deteriora a modelos que no la representan,confirmado (banco sintético),"E10A, 40 pares por nivel, `do_zero` y ±10 %: sesgo de M2p (privileged) solo en canales con ruta C←D→Y (−0,012 [−0,019, −0,007]); M2p_D ≈ 0; `rho` sesga también a M2p_D",confirmado para los modelos privilegiados y M0; M2 ciego sin potencia con `dc`
+H4,"Controles ayudan, pero mal ajustados sesgan",provisional,P0,sin cambios
+H5,La correlación entre canales reduce la estabilidad,no ejecutado,"E14: la puerta de diseño no pasa (los márgenes cambian: sd ×1,35–2,06)",solo cabría como «correlación inducida por Z con cambios de distribución»; pendiente de decisión
+H6,"Corregir la forma funcional ayuda, pero no arregla la confusión",confirmado (banco sintético),"líneas base corregidas (600 mundos): M2p sesgo −0,001; E10A: M2p sigue sesgado con D→C/D→Y",con transformaciones verdaderas (privileged)
+H7,C→C separa la atribución observada del efecto `do`,confirmado (banco sintético),"P0, nivel de verdad",sin cambios
+H8,Los árboles predicen igual o mejor sin validez causal,provisional,P0,sin cambios
+H9,Intervalos de modelos mal especificados infra-cubren,confirmado (banco sintético) para M3; parte oracle no ejecutada,"confirmatorio (37 pares válidos, mundos reservados, S1): con la ventana corregida, la cobertura IC95 de directos sube de 0,42 a 0,56 (+0,15 [0,07, 0,22]) pero sigue muy por debajo de 0,95; sesgo −0,021",Las conclusiones de M3 de v1/v1.1 son anteriores a la corrección del ajuste y no son válidas como evidencia
+H10,Mejor predictor ≠ mejor decisión,no concluyente,P0; E09 corregido sin M3,políticas de M3 no recalculadas
+H11,Cambios de prior degradan distinto según el método,no ejecutado,—,E10B no autorizado
+M2,La selección de formas de M2 identifica el mecanismo,confirmado (banco sintético) que NO,"auditoría F3: α elegido vs verdadero, Spearman 0,16; el 62 % de las formas cambia al quitar 8 filas",M2 se mantiene como caso de contraste; M2v2 solo como diseño
+M3-ventana,El sesgo negativo de M3 en v1/v1.1 procedía de la ventana de ajuste,confirmado (banco sintético) en parte,"A/B/C: la escala no contribuye (B−A ≈ 0); confirmatorio: el sesgo pasa de −0,045 a −0,021 (+0,023 [0,017, 0,030]); queda un sesgo residual",el control A/B/C muestra que la escala no contribuye
