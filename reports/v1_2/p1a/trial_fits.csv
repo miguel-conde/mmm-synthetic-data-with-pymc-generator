@@ -1,0 +1,5 @@
+mundo,estado,R-hat máx,ESS bulk mín,divergencias,válido,ventana verosimilitud,escala Y,tiempo_s,RSS pico MB,arquitectura
+S0_direct_only_T104_r00,ok,1.003759540889568,722.1091760399183,0,True,"[8, 83]",13.044108943275315,120.46105206500215,644.1015625,pymc_marketing.mmm.MMM standard + Potential masking history likelihood
+S0_direct_only_T104_r00__linear,ok,1.0129332493697543,648.1735004983775,0,False,"[8, 83]",17.103212766004532,271.80491597500804,743.12890625,pymc_marketing.mmm.MMM standard + Potential masking history likelihood
+S0_direct_only_T104_r01__linear,ok,1.0041598103464031,798.1472086285777,0,True,"[8, 83]",14.474906428199034,263.8649621259974,781.73828125,pymc_marketing.mmm.MMM standard + Potential masking history likelihood
+S4_kitchen_sink_T104_r00,ok,1.0059175996231453,578.2830370205229,0,True,"[8, 83]",10.55981019737796,251.68184270600614,868.62109375,pymc_marketing.mmm.MMM standard + Potential masking history likelihood

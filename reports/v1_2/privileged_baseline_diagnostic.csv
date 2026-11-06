@@ -1,0 +1,856 @@
+world,variant,bias
+S0_direct_only_T104_r00,"A offset base, sin calendario",-0.018040108264922642
+S0_direct_only_T104_r00,B offset base + tendencia,-0.004698172487682856
+S0_direct_only_T104_r00,C offset base + Fourier,-0.026163273417975974
+S0_direct_only_T104_r00,D offset base + tendencia + Fourier,-0.005802346123147652
+S0_direct_only_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.038601137062460635
+S0_direct_only_T104_r00,"A offset base, sin calendario",0.012064454873357939
+S0_direct_only_T104_r00,B offset base + tendencia,-0.022005258993686407
+S0_direct_only_T104_r00,C offset base + Fourier,0.012350076014357832
+S0_direct_only_T104_r00,D offset base + tendencia + Fourier,-0.022038249301111285
+S0_direct_only_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.019490366515465082
+S0_direct_only_T104_r00,"A offset base, sin calendario",-0.011338839736744759
+S0_direct_only_T104_r00,B offset base + tendencia,-0.010789692316932383
+S0_direct_only_T104_r00,C offset base + Fourier,-0.012462626410186008
+S0_direct_only_T104_r00,D offset base + tendencia + Fourier,-0.01330773251758261
+S0_direct_only_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.012056644612122552
+S0_direct_only_T104_r00,"A offset base, sin calendario",-0.17695900081916183
+S0_direct_only_T104_r00,B offset base + tendencia,-0.18344113450653052
+S0_direct_only_T104_r00,C offset base + Fourier,-0.15151317418897864
+S0_direct_only_T104_r00,D offset base + tendencia + Fourier,-0.15833874798114497
+S0_direct_only_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.16674766210594552
+S0_direct_only_T104_r01,"A offset base, sin calendario",-0.0552506508546847
+S0_direct_only_T104_r01,B offset base + tendencia,-0.06389380570284776
+S0_direct_only_T104_r01,C offset base + Fourier,-0.07353498607999868
+S0_direct_only_T104_r01,D offset base + tendencia + Fourier,-0.06850170632069158
+S0_direct_only_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.038733369925055924
+S0_direct_only_T104_r01,"A offset base, sin calendario",-0.033625603405395485
+S0_direct_only_T104_r01,B offset base + tendencia,-0.03576653997446328
+S0_direct_only_T104_r01,C offset base + Fourier,-0.007297363508117695
+S0_direct_only_T104_r01,D offset base + tendencia + Fourier,-0.013744310908058534
+S0_direct_only_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.0031559733205588974
+S0_direct_only_T104_r01,"A offset base, sin calendario",-0.04572902231519623
+S0_direct_only_T104_r01,B offset base + tendencia,-0.006575073255800667
+S0_direct_only_T104_r01,C offset base + Fourier,-0.10034749123869206
+S0_direct_only_T104_r01,D offset base + tendencia + Fourier,-0.04311467688716913
+S0_direct_only_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.045488862140518824
+S0_direct_only_T104_r01,"A offset base, sin calendario",-0.0300520416862257
+S0_direct_only_T104_r01,B offset base + tendencia,-0.17234700044974935
+S0_direct_only_T104_r01,C offset base + Fourier,-0.04124619247620916
+S0_direct_only_T104_r01,D offset base + tendencia + Fourier,-0.17383527159778964
+S0_direct_only_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.16633623414801213
+S0_direct_only_T104_r02,"A offset base, sin calendario",-0.05493717468385928
+S0_direct_only_T104_r02,B offset base + tendencia,-0.044176454068461615
+S0_direct_only_T104_r02,C offset base + Fourier,-0.05002739388016728
+S0_direct_only_T104_r02,D offset base + tendencia + Fourier,-0.01651593882637574
+S0_direct_only_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.01080972439284533
+S0_direct_only_T104_r02,"A offset base, sin calendario",-0.03280702152364561
+S0_direct_only_T104_r02,B offset base + tendencia,-0.02022384489875548
+S0_direct_only_T104_r02,C offset base + Fourier,-0.07887182920504573
+S0_direct_only_T104_r02,D offset base + tendencia + Fourier,-0.06008195063159172
+S0_direct_only_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.05995639314241739
+S0_direct_only_T104_r02,"A offset base, sin calendario",-0.015799058992986243
+S0_direct_only_T104_r02,B offset base + tendencia,-0.01003088830119792
+S0_direct_only_T104_r02,C offset base + Fourier,-0.012223532825331439
+S0_direct_only_T104_r02,D offset base + tendencia + Fourier,-0.0005832704650390125
+S0_direct_only_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.004911407155659502
+S0_direct_only_T104_r02,"A offset base, sin calendario",-0.09048442303835653
+S0_direct_only_T104_r02,B offset base + tendencia,-0.09375015054025093
+S0_direct_only_T104_r02,C offset base + Fourier,-0.09100777397891797
+S0_direct_only_T104_r02,D offset base + tendencia + Fourier,-0.10607017289307334
+S0_direct_only_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.14100571373443876
+S0_direct_only_T208_r00,"A offset base, sin calendario",0.014916796284442995
+S0_direct_only_T208_r00,B offset base + tendencia,-0.004235908947994183
+S0_direct_only_T208_r00,C offset base + Fourier,0.013621098733984009
+S0_direct_only_T208_r00,D offset base + tendencia + Fourier,-0.007460183173937049
+S0_direct_only_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.04704247424794009
+S0_direct_only_T208_r00,"A offset base, sin calendario",0.003752232537580183
+S0_direct_only_T208_r00,B offset base + tendencia,0.0037284180436531356
+S0_direct_only_T208_r00,C offset base + Fourier,0.0026517118859818623
+S0_direct_only_T208_r00,D offset base + tendencia + Fourier,0.003208387612554089
+S0_direct_only_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.009186442015713392
+S0_direct_only_T208_r00,"A offset base, sin calendario",-0.04573972270405071
+S0_direct_only_T208_r00,B offset base + tendencia,-0.050886621407047784
+S0_direct_only_T208_r00,C offset base + Fourier,-0.04313770682204543
+S0_direct_only_T208_r00,D offset base + tendencia + Fourier,-0.047519141765432864
+S0_direct_only_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.029961726719836497
+S0_direct_only_T208_r00,"A offset base, sin calendario",-0.00994479966942797
+S0_direct_only_T208_r00,B offset base + tendencia,-0.00845625325646661
+S0_direct_only_T208_r00,C offset base + Fourier,-0.01315210714057388
+S0_direct_only_T208_r00,D offset base + tendencia + Fourier,-0.016258296188073895
+S0_direct_only_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.05234008862945325
+S0_direct_only_T208_r01,"A offset base, sin calendario",-0.12266738607253015
+S0_direct_only_T208_r01,B offset base + tendencia,-0.1722839880148931
+S0_direct_only_T208_r01,C offset base + Fourier,-0.11653559890682688
+S0_direct_only_T208_r01,D offset base + tendencia + Fourier,-0.17052715257011547
+S0_direct_only_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.1307101615655206
+S0_direct_only_T208_r01,"A offset base, sin calendario",-0.08569972354727895
+S0_direct_only_T208_r01,B offset base + tendencia,-0.044763228800971874
+S0_direct_only_T208_r01,C offset base + Fourier,-0.09191071980933849
+S0_direct_only_T208_r01,D offset base + tendencia + Fourier,-0.050442627449604906
+S0_direct_only_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.004540503985083984
+S0_direct_only_T208_r01,"A offset base, sin calendario",-0.08698757890074876
+S0_direct_only_T208_r01,B offset base + tendencia,-0.0447287046050013
+S0_direct_only_T208_r01,C offset base + Fourier,-0.08543890186434808
+S0_direct_only_T208_r01,D offset base + tendencia + Fourier,-0.03577331452849011
+S0_direct_only_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.053994065144724365
+S0_direct_only_T208_r01,"A offset base, sin calendario",-0.0049407729390330635
+S0_direct_only_T208_r01,B offset base + tendencia,-0.025251254964319247
+S0_direct_only_T208_r01,C offset base + Fourier,-0.00940865026246795
+S0_direct_only_T208_r01,D offset base + tendencia + Fourier,-0.03626428616761406
+S0_direct_only_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.05655707497555728
+S0_direct_only_T208_r02,"A offset base, sin calendario",0.0031245966829953954
+S0_direct_only_T208_r02,B offset base + tendencia,0.001520779708079134
+S0_direct_only_T208_r02,C offset base + Fourier,0.004998469912302334
+S0_direct_only_T208_r02,D offset base + tendencia + Fourier,0.0039620314762204905
+S0_direct_only_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.006479397754247485
+S0_direct_only_T208_r02,"A offset base, sin calendario",-0.0922096041743763
+S0_direct_only_T208_r02,B offset base + tendencia,-0.09508490611319853
+S0_direct_only_T208_r02,C offset base + Fourier,-0.09050404637815886
+S0_direct_only_T208_r02,D offset base + tendencia + Fourier,-0.09273055192259727
+S0_direct_only_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.10240929069001971
+S0_direct_only_T208_r02,"A offset base, sin calendario",-0.014958572560353663
+S0_direct_only_T208_r02,B offset base + tendencia,-0.015403592387481955
+S0_direct_only_T208_r02,C offset base + Fourier,-0.019373776239524066
+S0_direct_only_T208_r02,D offset base + tendencia + Fourier,-0.019471181375554057
+S0_direct_only_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.025792809569576917
+S0_direct_only_T208_r02,"A offset base, sin calendario",-0.004783142475827336
+S0_direct_only_T208_r02,B offset base + tendencia,-0.006337374586539308
+S0_direct_only_T208_r02,C offset base + Fourier,-0.005243480999805411
+S0_direct_only_T208_r02,D offset base + tendencia + Fourier,-0.006390725725463258
+S0_direct_only_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.01266743703153568
+S0_direct_only_T52_r00,"A offset base, sin calendario",-0.26079439188552284
+S0_direct_only_T52_r00,B offset base + tendencia,-0.25083613550034456
+S0_direct_only_T52_r00,C offset base + Fourier,-0.23363762810158198
+S0_direct_only_T52_r00,D offset base + tendencia + Fourier,-0.18099861994307087
+S0_direct_only_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.11906933762496648
+S0_direct_only_T52_r00,"A offset base, sin calendario",-0.009115818749094349
+S0_direct_only_T52_r00,B offset base + tendencia,-0.014418736128051857
+S0_direct_only_T52_r00,C offset base + Fourier,0.019934669515956592
+S0_direct_only_T52_r00,D offset base + tendencia + Fourier,0.026496306457440864
+S0_direct_only_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.02782296242473136
+S0_direct_only_T52_r00,"A offset base, sin calendario",-0.1251525927537029
+S0_direct_only_T52_r00,B offset base + tendencia,-0.12185944789657194
+S0_direct_only_T52_r00,C offset base + Fourier,-0.18557232850128988
+S0_direct_only_T52_r00,D offset base + tendencia + Fourier,-0.16996427139086628
+S0_direct_only_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.1386816774852759
+S0_direct_only_T52_r00,"A offset base, sin calendario",0.03358876560479803
+S0_direct_only_T52_r00,B offset base + tendencia,0.025963101825497586
+S0_direct_only_T52_r00,C offset base + Fourier,0.009579251165822977
+S0_direct_only_T52_r00,D offset base + tendencia + Fourier,0.0042013647076190215
+S0_direct_only_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.0031107924192269984
+S0_direct_only_T52_r01,"A offset base, sin calendario",-0.3298036520247388
+S0_direct_only_T52_r01,B offset base + tendencia,-0.2549678240321597
+S0_direct_only_T52_r01,C offset base + Fourier,-0.3229971308520229
+S0_direct_only_T52_r01,D offset base + tendencia + Fourier,-0.18726694518929013
+S0_direct_only_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.24230603293148967
+S0_direct_only_T52_r01,"A offset base, sin calendario",0.009340595732624937
+S0_direct_only_T52_r01,B offset base + tendencia,0.007955749137893719
+S0_direct_only_T52_r01,C offset base + Fourier,-0.0026428178696190465
+S0_direct_only_T52_r01,D offset base + tendencia + Fourier,0.0022207506026217243
+S0_direct_only_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.0056014635535408825
+S0_direct_only_T52_r01,"A offset base, sin calendario",0.03259736458106142
+S0_direct_only_T52_r01,B offset base + tendencia,0.041429017597940494
+S0_direct_only_T52_r01,C offset base + Fourier,-0.16046080090860937
+S0_direct_only_T52_r01,D offset base + tendencia + Fourier,-0.17482699725351913
+S0_direct_only_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.14861200301358238
+S0_direct_only_T52_r01,"A offset base, sin calendario",-0.25532633927462156
+S0_direct_only_T52_r01,B offset base + tendencia,-0.3157081585241882
+S0_direct_only_T52_r01,C offset base + Fourier,-0.17820454711900005
+S0_direct_only_T52_r01,D offset base + tendencia + Fourier,-0.1530173989937988
+S0_direct_only_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.1662551342625312
+S0_direct_only_T52_r02,"A offset base, sin calendario",0.003236054451790672
+S0_direct_only_T52_r02,B offset base + tendencia,-0.0002443700165962776
+S0_direct_only_T52_r02,C offset base + Fourier,-0.0033625285688564065
+S0_direct_only_T52_r02,D offset base + tendencia + Fourier,-0.0016373901950132545
+S0_direct_only_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.0005657840285919185
+S0_direct_only_T52_r02,"A offset base, sin calendario",-0.03403530261139294
+S0_direct_only_T52_r02,B offset base + tendencia,-0.04629061101417003
+S0_direct_only_T52_r02,C offset base + Fourier,-0.05626136669762106
+S0_direct_only_T52_r02,D offset base + tendencia + Fourier,-0.04884261777353959
+S0_direct_only_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.03685959457441678
+S0_direct_only_T52_r02,"A offset base, sin calendario",-0.22941583205898144
+S0_direct_only_T52_r02,B offset base + tendencia,-0.2295111949392936
+S0_direct_only_T52_r02,C offset base + Fourier,-0.18596668713793857
+S0_direct_only_T52_r02,D offset base + tendencia + Fourier,-0.11224932812788405
+S0_direct_only_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.09922480122313741
+S0_direct_only_T52_r02,"A offset base, sin calendario",-0.027759837332414862
+S0_direct_only_T52_r02,B offset base + tendencia,-0.030539015540795446
+S0_direct_only_T52_r02,C offset base + Fourier,-0.07046746422108553
+S0_direct_only_T52_r02,D offset base + tendencia + Fourier,-0.024127227966106793
+S0_direct_only_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.04036879106915059
+S1_confounded_treatment_T104_r00,"A offset base, sin calendario",-0.036548468173112365
+S1_confounded_treatment_T104_r00,B offset base + tendencia,-0.032537516660240275
+S1_confounded_treatment_T104_r00,C offset base + Fourier,-0.037126130115701296
+S1_confounded_treatment_T104_r00,D offset base + tendencia + Fourier,-0.03421240476817473
+S1_confounded_treatment_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.045770668752471634
+S1_confounded_treatment_T104_r00,"A offset base, sin calendario",-0.008578398332959153
+S1_confounded_treatment_T104_r00,B offset base + tendencia,-0.016560690611961658
+S1_confounded_treatment_T104_r00,C offset base + Fourier,-0.01771162551348233
+S1_confounded_treatment_T104_r00,D offset base + tendencia + Fourier,-0.024441734196307564
+S1_confounded_treatment_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.034757507544585634
+S1_confounded_treatment_T104_r00,"A offset base, sin calendario",-0.17125483364065883
+S1_confounded_treatment_T104_r00,B offset base + tendencia,-0.18205183799431965
+S1_confounded_treatment_T104_r00,C offset base + Fourier,-0.17079352679478949
+S1_confounded_treatment_T104_r00,D offset base + tendencia + Fourier,-0.18128350637969218
+S1_confounded_treatment_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.19938420227964895
+S1_confounded_treatment_T104_r00,"A offset base, sin calendario",-0.009452165804385702
+S1_confounded_treatment_T104_r00,B offset base + tendencia,-0.027362255188676517
+S1_confounded_treatment_T104_r00,C offset base + Fourier,-0.0025293071698790997
+S1_confounded_treatment_T104_r00,D offset base + tendencia + Fourier,-0.01742705787299212
+S1_confounded_treatment_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.016666976569677843
+S1_confounded_treatment_T104_r01,"A offset base, sin calendario",-0.07705654236216668
+S1_confounded_treatment_T104_r01,B offset base + tendencia,-0.05712385375074296
+S1_confounded_treatment_T104_r01,C offset base + Fourier,-0.08966805274634779
+S1_confounded_treatment_T104_r01,D offset base + tendencia + Fourier,-0.06424139689044216
+S1_confounded_treatment_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.13925628095560086
+S1_confounded_treatment_T104_r01,"A offset base, sin calendario",0.010760939247892416
+S1_confounded_treatment_T104_r01,B offset base + tendencia,0.017898265297338047
+S1_confounded_treatment_T104_r01,C offset base + Fourier,-0.0050921810279060285
+S1_confounded_treatment_T104_r01,D offset base + tendencia + Fourier,0.0017416212530460527
+S1_confounded_treatment_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.02930197392082602
+S1_confounded_treatment_T104_r01,"A offset base, sin calendario",-0.0007147322033367854
+S1_confounded_treatment_T104_r01,B offset base + tendencia,-0.010302291593233821
+S1_confounded_treatment_T104_r01,C offset base + Fourier,-0.005063966587980222
+S1_confounded_treatment_T104_r01,D offset base + tendencia + Fourier,-0.012145303524853667
+S1_confounded_treatment_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.00905521206237949
+S1_confounded_treatment_T104_r01,"A offset base, sin calendario",-0.01746304700030226
+S1_confounded_treatment_T104_r01,B offset base + tendencia,-0.06385806374202778
+S1_confounded_treatment_T104_r01,C offset base + Fourier,-0.026161630214423016
+S1_confounded_treatment_T104_r01,D offset base + tendencia + Fourier,-0.07057808686332794
+S1_confounded_treatment_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.08392735934890759
+S1_confounded_treatment_T104_r02,"A offset base, sin calendario",0.008575996749147793
+S1_confounded_treatment_T104_r02,B offset base + tendencia,0.009297737550089523
+S1_confounded_treatment_T104_r02,C offset base + Fourier,0.01809112089207217
+S1_confounded_treatment_T104_r02,D offset base + tendencia + Fourier,0.017951203353311195
+S1_confounded_treatment_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.057059035972670896
+S1_confounded_treatment_T104_r02,"A offset base, sin calendario",-0.012350205708235284
+S1_confounded_treatment_T104_r02,B offset base + tendencia,-0.009196986025428977
+S1_confounded_treatment_T104_r02,C offset base + Fourier,-0.025560175449067753
+S1_confounded_treatment_T104_r02,D offset base + tendencia + Fourier,-0.04374181655786424
+S1_confounded_treatment_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.06347774555610884
+S1_confounded_treatment_T104_r02,"A offset base, sin calendario",0.0024010742857892555
+S1_confounded_treatment_T104_r02,B offset base + tendencia,0.0029683863256266007
+S1_confounded_treatment_T104_r02,C offset base + Fourier,-0.007776526923889696
+S1_confounded_treatment_T104_r02,D offset base + tendencia + Fourier,-0.008067900657677471
+S1_confounded_treatment_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.015366445922341349
+S1_confounded_treatment_T104_r02,"A offset base, sin calendario",-0.047987263826084633
+S1_confounded_treatment_T104_r02,B offset base + tendencia,-0.04431013072137555
+S1_confounded_treatment_T104_r02,C offset base + Fourier,-0.0533537704727408
+S1_confounded_treatment_T104_r02,D offset base + tendencia + Fourier,-0.06061576460937754
+S1_confounded_treatment_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.12917073486172606
+S1_confounded_treatment_T208_r00,"A offset base, sin calendario",-0.07121791087746686
+S1_confounded_treatment_T208_r00,B offset base + tendencia,-0.06701373035559957
+S1_confounded_treatment_T208_r00,C offset base + Fourier,-0.07363223564915278
+S1_confounded_treatment_T208_r00,D offset base + tendencia + Fourier,-0.07587863131629705
+S1_confounded_treatment_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.10490194506100467
+S1_confounded_treatment_T208_r00,"A offset base, sin calendario",-0.04335283212487627
+S1_confounded_treatment_T208_r00,B offset base + tendencia,-0.06401940158221017
+S1_confounded_treatment_T208_r00,C offset base + Fourier,-0.04184869631773357
+S1_confounded_treatment_T208_r00,D offset base + tendencia + Fourier,-0.06429725356938396
+S1_confounded_treatment_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.13587950208453
+S1_confounded_treatment_T208_r00,"A offset base, sin calendario",-0.006604597815945728
+S1_confounded_treatment_T208_r00,B offset base + tendencia,-0.0037729940397966725
+S1_confounded_treatment_T208_r00,C offset base + Fourier,-0.008879816851474142
+S1_confounded_treatment_T208_r00,D offset base + tendencia + Fourier,-0.005516436085254451
+S1_confounded_treatment_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.001498766036477098
+S1_confounded_treatment_T208_r00,"A offset base, sin calendario",-0.010335282386838078
+S1_confounded_treatment_T208_r00,B offset base + tendencia,-0.01936227651811823
+S1_confounded_treatment_T208_r00,C offset base + Fourier,-0.011936949774230626
+S1_confounded_treatment_T208_r00,D offset base + tendencia + Fourier,-0.021512325247703464
+S1_confounded_treatment_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.006585837897558208
+S1_confounded_treatment_T208_r01,"A offset base, sin calendario",8.62447433117302e-05
+S1_confounded_treatment_T208_r01,B offset base + tendencia,6.852488938597011e-05
+S1_confounded_treatment_T208_r01,C offset base + Fourier,-0.0009664938922492227
+S1_confounded_treatment_T208_r01,D offset base + tendencia + Fourier,-0.0010605913889547354
+S1_confounded_treatment_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.004546831873406064
+S1_confounded_treatment_T208_r01,"A offset base, sin calendario",0.00613062012702016
+S1_confounded_treatment_T208_r01,B offset base + tendencia,0.006740721908102235
+S1_confounded_treatment_T208_r01,C offset base + Fourier,0.006000272265072645
+S1_confounded_treatment_T208_r01,D offset base + tendencia + Fourier,0.0076869738070013075
+S1_confounded_treatment_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.12561862643265412
+S1_confounded_treatment_T208_r01,"A offset base, sin calendario",-0.0037233240392497914
+S1_confounded_treatment_T208_r01,B offset base + tendencia,-0.0038798319292324946
+S1_confounded_treatment_T208_r01,C offset base + Fourier,-0.0033618099060254633
+S1_confounded_treatment_T208_r01,D offset base + tendencia + Fourier,-0.0038410495568782913
+S1_confounded_treatment_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.01904155385179917
+S1_confounded_treatment_T208_r01,"A offset base, sin calendario",-0.011466371562221871
+S1_confounded_treatment_T208_r01,B offset base + tendencia,-0.010869673130176154
+S1_confounded_treatment_T208_r01,C offset base + Fourier,-0.012207118907350867
+S1_confounded_treatment_T208_r01,D offset base + tendencia + Fourier,-0.010244401629270788
+S1_confounded_treatment_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.04325665890857026
+S1_confounded_treatment_T208_r02,"A offset base, sin calendario",-0.014116682186061793
+S1_confounded_treatment_T208_r02,B offset base + tendencia,0.0014770009967295232
+S1_confounded_treatment_T208_r02,C offset base + Fourier,-0.0192494062342752
+S1_confounded_treatment_T208_r02,D offset base + tendencia + Fourier,0.0006936840442136457
+S1_confounded_treatment_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.027712167413795088
+S1_confounded_treatment_T208_r02,"A offset base, sin calendario",-0.13456202008804802
+S1_confounded_treatment_T208_r02,B offset base + tendencia,-0.07003674802408266
+S1_confounded_treatment_T208_r02,C offset base + Fourier,-0.1422120840334277
+S1_confounded_treatment_T208_r02,D offset base + tendencia + Fourier,-0.06318165404057649
+S1_confounded_treatment_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.10468781131209376
+S1_confounded_treatment_T208_r02,"A offset base, sin calendario",-0.2765790612453292
+S1_confounded_treatment_T208_r02,B offset base + tendencia,-0.3249260121376345
+S1_confounded_treatment_T208_r02,C offset base + Fourier,-0.25215531268436625
+S1_confounded_treatment_T208_r02,D offset base + tendencia + Fourier,-0.3251532764672464
+S1_confounded_treatment_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.2634205555389876
+S1_confounded_treatment_T208_r02,"A offset base, sin calendario",-0.11746491901546585
+S1_confounded_treatment_T208_r02,B offset base + tendencia,-0.08717511877274345
+S1_confounded_treatment_T208_r02,C offset base + Fourier,-0.1421001669485999
+S1_confounded_treatment_T208_r02,D offset base + tendencia + Fourier,-0.10079823183767081
+S1_confounded_treatment_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.17944357985347442
+S1_confounded_treatment_T52_r00,"A offset base, sin calendario",-0.0696376659549968
+S1_confounded_treatment_T52_r00,B offset base + tendencia,-0.06482310715456681
+S1_confounded_treatment_T52_r00,C offset base + Fourier,-0.15325722845881792
+S1_confounded_treatment_T52_r00,D offset base + tendencia + Fourier,-0.07885135214133135
+S1_confounded_treatment_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.08298021018888575
+S1_confounded_treatment_T52_r00,"A offset base, sin calendario",-0.01190279034704738
+S1_confounded_treatment_T52_r00,B offset base + tendencia,-0.006416451673239117
+S1_confounded_treatment_T52_r00,C offset base + Fourier,-0.004456969751180053
+S1_confounded_treatment_T52_r00,D offset base + tendencia + Fourier,-0.0072956558961033
+S1_confounded_treatment_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.008579057481300138
+S1_confounded_treatment_T52_r00,"A offset base, sin calendario",0.0031729520959675483
+S1_confounded_treatment_T52_r00,B offset base + tendencia,-0.05535237604782651
+S1_confounded_treatment_T52_r00,C offset base + Fourier,-0.030974615295793102
+S1_confounded_treatment_T52_r00,D offset base + tendencia + Fourier,-0.02117260062508405
+S1_confounded_treatment_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.008841698763509714
+S1_confounded_treatment_T52_r00,"A offset base, sin calendario",-0.04157152438537611
+S1_confounded_treatment_T52_r00,B offset base + tendencia,-0.02359006795876675
+S1_confounded_treatment_T52_r00,C offset base + Fourier,-0.014266568282047169
+S1_confounded_treatment_T52_r00,D offset base + tendencia + Fourier,-0.009624181925166037
+S1_confounded_treatment_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.012897468978381241
+S1_confounded_treatment_T52_r01,"A offset base, sin calendario",-0.0009149357150175966
+S1_confounded_treatment_T52_r01,B offset base + tendencia,-0.0011124710311142406
+S1_confounded_treatment_T52_r01,C offset base + Fourier,-0.0029165288406909984
+S1_confounded_treatment_T52_r01,D offset base + tendencia + Fourier,-0.0024867180617616468
+S1_confounded_treatment_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.006909939745547377
+S1_confounded_treatment_T52_r01,"A offset base, sin calendario",0.004331809722177549
+S1_confounded_treatment_T52_r01,B offset base + tendencia,0.004704586405801721
+S1_confounded_treatment_T52_r01,C offset base + Fourier,0.007204255757813693
+S1_confounded_treatment_T52_r01,D offset base + tendencia + Fourier,0.008369914441647105
+S1_confounded_treatment_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.009288301914568193
+S1_confounded_treatment_T52_r01,"A offset base, sin calendario",-0.07738621724527849
+S1_confounded_treatment_T52_r01,B offset base + tendencia,-0.08554867142242453
+S1_confounded_treatment_T52_r01,C offset base + Fourier,-0.08589944742860622
+S1_confounded_treatment_T52_r01,D offset base + tendencia + Fourier,-0.06641647146001835
+S1_confounded_treatment_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.028333443433864517
+S1_confounded_treatment_T52_r01,"A offset base, sin calendario",-0.04297833491205863
+S1_confounded_treatment_T52_r01,B offset base + tendencia,-0.03446512859656991
+S1_confounded_treatment_T52_r01,C offset base + Fourier,-0.028581745341191105
+S1_confounded_treatment_T52_r01,D offset base + tendencia + Fourier,-0.015509420587404916
+S1_confounded_treatment_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.0173984667771965
+S1_confounded_treatment_T52_r02,"A offset base, sin calendario",-0.015488244295651873
+S1_confounded_treatment_T52_r02,B offset base + tendencia,-0.014950613967346024
+S1_confounded_treatment_T52_r02,C offset base + Fourier,-0.005466794171417528
+S1_confounded_treatment_T52_r02,D offset base + tendencia + Fourier,-0.004573937324191127
+S1_confounded_treatment_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.006213719190764767
+S1_confounded_treatment_T52_r02,"A offset base, sin calendario",-0.025971376137534585
+S1_confounded_treatment_T52_r02,B offset base + tendencia,-0.01760661427529499
+S1_confounded_treatment_T52_r02,C offset base + Fourier,-0.027642016906245015
+S1_confounded_treatment_T52_r02,D offset base + tendencia + Fourier,-0.027683119810194542
+S1_confounded_treatment_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.031079086879399233
+S1_confounded_treatment_T52_r02,"A offset base, sin calendario",-0.17964998988218103
+S1_confounded_treatment_T52_r02,B offset base + tendencia,-0.17071261070052318
+S1_confounded_treatment_T52_r02,C offset base + Fourier,-0.1874774688765089
+S1_confounded_treatment_T52_r02,D offset base + tendencia + Fourier,-0.18285361595227173
+S1_confounded_treatment_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.1902957790059504
+S1_confounded_treatment_T52_r02,"A offset base, sin calendario",-0.015461765864119296
+S1_confounded_treatment_T52_r02,B offset base + tendencia,-0.014076827673186203
+S1_confounded_treatment_T52_r02,C offset base + Fourier,-0.023678974875206055
+S1_confounded_treatment_T52_r02,D offset base + tendencia + Fourier,-0.024135201748703632
+S1_confounded_treatment_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.038511215751786745
+S2_promo_drives_treatment_T104_r00,"A offset base, sin calendario",-0.03218436744609073
+S2_promo_drives_treatment_T104_r00,B offset base + tendencia,-0.010074663802249946
+S2_promo_drives_treatment_T104_r00,C offset base + Fourier,-0.018972323419506255
+S2_promo_drives_treatment_T104_r00,D offset base + tendencia + Fourier,0.0026517850610207716
+S2_promo_drives_treatment_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.003681578463732835
+S2_promo_drives_treatment_T104_r00,"A offset base, sin calendario",-0.036587750912118897
+S2_promo_drives_treatment_T104_r00,B offset base + tendencia,-0.018665047327331014
+S2_promo_drives_treatment_T104_r00,C offset base + Fourier,-0.024631832662406806
+S2_promo_drives_treatment_T104_r00,D offset base + tendencia + Fourier,-0.010711455999857957
+S2_promo_drives_treatment_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.017252923958303395
+S2_promo_drives_treatment_T104_r00,"A offset base, sin calendario",-0.025703607328907654
+S2_promo_drives_treatment_T104_r00,B offset base + tendencia,-0.0404299307419255
+S2_promo_drives_treatment_T104_r00,C offset base + Fourier,-0.009450542161894695
+S2_promo_drives_treatment_T104_r00,D offset base + tendencia + Fourier,-0.049463875867282854
+S2_promo_drives_treatment_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.057966699696387465
+S2_promo_drives_treatment_T104_r00,"A offset base, sin calendario",-0.07598741504923007
+S2_promo_drives_treatment_T104_r00,B offset base + tendencia,-0.057875681385429575
+S2_promo_drives_treatment_T104_r00,C offset base + Fourier,-0.07647476777780436
+S2_promo_drives_treatment_T104_r00,D offset base + tendencia + Fourier,-0.043250710154939295
+S2_promo_drives_treatment_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.04101231241870403
+S2_promo_drives_treatment_T104_r01,"A offset base, sin calendario",-0.058151662619442504
+S2_promo_drives_treatment_T104_r01,B offset base + tendencia,-0.05879827840443277
+S2_promo_drives_treatment_T104_r01,C offset base + Fourier,-0.09007537192098772
+S2_promo_drives_treatment_T104_r01,D offset base + tendencia + Fourier,-0.08877720122166968
+S2_promo_drives_treatment_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.09019544184508686
+S2_promo_drives_treatment_T104_r01,"A offset base, sin calendario",-0.00642743644485594
+S2_promo_drives_treatment_T104_r01,B offset base + tendencia,0.002573447608765926
+S2_promo_drives_treatment_T104_r01,C offset base + Fourier,-0.007142284393235359
+S2_promo_drives_treatment_T104_r01,D offset base + tendencia + Fourier,-0.003886806342796383
+S2_promo_drives_treatment_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.007644554549531137
+S2_promo_drives_treatment_T104_r01,"A offset base, sin calendario",0.010000861124001384
+S2_promo_drives_treatment_T104_r01,B offset base + tendencia,0.014373899737436583
+S2_promo_drives_treatment_T104_r01,C offset base + Fourier,-0.02292456063448614
+S2_promo_drives_treatment_T104_r01,D offset base + tendencia + Fourier,-0.020046722450186565
+S2_promo_drives_treatment_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.031177033176301307
+S2_promo_drives_treatment_T104_r01,"A offset base, sin calendario",-0.05250152243611498
+S2_promo_drives_treatment_T104_r01,B offset base + tendencia,-0.04300073369838294
+S2_promo_drives_treatment_T104_r01,C offset base + Fourier,-0.025570513873967762
+S2_promo_drives_treatment_T104_r01,D offset base + tendencia + Fourier,-0.0226226134303766
+S2_promo_drives_treatment_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.021512575382269673
+S2_promo_drives_treatment_T104_r02,"A offset base, sin calendario",-8.848508812020341e-05
+S2_promo_drives_treatment_T104_r02,B offset base + tendencia,-0.00679670572923072
+S2_promo_drives_treatment_T104_r02,C offset base + Fourier,-0.001659295180385033
+S2_promo_drives_treatment_T104_r02,D offset base + tendencia + Fourier,-0.0040163947371151115
+S2_promo_drives_treatment_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.005681199254330975
+S2_promo_drives_treatment_T104_r02,"A offset base, sin calendario",0.0057278484662927395
+S2_promo_drives_treatment_T104_r02,B offset base + tendencia,-0.0023921187063454903
+S2_promo_drives_treatment_T104_r02,C offset base + Fourier,0.013664591224763333
+S2_promo_drives_treatment_T104_r02,D offset base + tendencia + Fourier,0.014007916606253463
+S2_promo_drives_treatment_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.019399418768013068
+S2_promo_drives_treatment_T104_r02,"A offset base, sin calendario",0.0011093908201627674
+S2_promo_drives_treatment_T104_r02,B offset base + tendencia,-0.015032516116972166
+S2_promo_drives_treatment_T104_r02,C offset base + Fourier,0.0018508899652789894
+S2_promo_drives_treatment_T104_r02,D offset base + tendencia + Fourier,-0.046758506049557495
+S2_promo_drives_treatment_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.033289677282803166
+S2_promo_drives_treatment_T104_r02,"A offset base, sin calendario",-0.019898123376936642
+S2_promo_drives_treatment_T104_r02,B offset base + tendencia,-0.01326781008993322
+S2_promo_drives_treatment_T104_r02,C offset base + Fourier,-0.02640135174696665
+S2_promo_drives_treatment_T104_r02,D offset base + tendencia + Fourier,-0.012434810039764018
+S2_promo_drives_treatment_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.012122904898567693
+S2_promo_drives_treatment_T208_r00,"A offset base, sin calendario",0.0008218486892265899
+S2_promo_drives_treatment_T208_r00,B offset base + tendencia,0.001110768479740925
+S2_promo_drives_treatment_T208_r00,C offset base + Fourier,0.000587946075287508
+S2_promo_drives_treatment_T208_r00,D offset base + tendencia + Fourier,0.0007516017276596407
+S2_promo_drives_treatment_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.015939757057269955
+S2_promo_drives_treatment_T208_r00,"A offset base, sin calendario",0.001162350017935488
+S2_promo_drives_treatment_T208_r00,B offset base + tendencia,0.0013075500511447727
+S2_promo_drives_treatment_T208_r00,C offset base + Fourier,-0.0011698874779437667
+S2_promo_drives_treatment_T208_r00,D offset base + tendencia + Fourier,-0.0010879867971914244
+S2_promo_drives_treatment_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.0020560824626322523
+S2_promo_drives_treatment_T208_r00,"A offset base, sin calendario",-0.004117066278859934
+S2_promo_drives_treatment_T208_r00,B offset base + tendencia,-0.004272877394157868
+S2_promo_drives_treatment_T208_r00,C offset base + Fourier,-0.007485971776584475
+S2_promo_drives_treatment_T208_r00,D offset base + tendencia + Fourier,-0.007576914147102822
+S2_promo_drives_treatment_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.010751472527431902
+S2_promo_drives_treatment_T208_r00,"A offset base, sin calendario",0.00030080859329887895
+S2_promo_drives_treatment_T208_r00,B offset base + tendencia,0.00024850589469496703
+S2_promo_drives_treatment_T208_r00,C offset base + Fourier,0.0008507652629166297
+S2_promo_drives_treatment_T208_r00,D offset base + tendencia + Fourier,0.0008209614324128434
+S2_promo_drives_treatment_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.0005568283524854014
+S2_promo_drives_treatment_T208_r01,"A offset base, sin calendario",-0.04501383127856043
+S2_promo_drives_treatment_T208_r01,B offset base + tendencia,0.022342264988976394
+S2_promo_drives_treatment_T208_r01,C offset base + Fourier,-0.0467092205534692
+S2_promo_drives_treatment_T208_r01,D offset base + tendencia + Fourier,0.027195891773204372
+S2_promo_drives_treatment_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.0305065310247763
+S2_promo_drives_treatment_T208_r01,"A offset base, sin calendario",-0.004529371150768554
+S2_promo_drives_treatment_T208_r01,B offset base + tendencia,-0.003040793232639678
+S2_promo_drives_treatment_T208_r01,C offset base + Fourier,-0.007911513501873446
+S2_promo_drives_treatment_T208_r01,D offset base + tendencia + Fourier,-0.00551951187432659
+S2_promo_drives_treatment_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.0221602197871009
+S2_promo_drives_treatment_T208_r01,"A offset base, sin calendario",-0.11569931946322681
+S2_promo_drives_treatment_T208_r01,B offset base + tendencia,-0.1481760805415332
+S2_promo_drives_treatment_T208_r01,C offset base + Fourier,-0.12106353428988434
+S2_promo_drives_treatment_T208_r01,D offset base + tendencia + Fourier,-0.15205817151004164
+S2_promo_drives_treatment_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.03741895515825249
+S2_promo_drives_treatment_T208_r01,"A offset base, sin calendario",-0.04956348262346059
+S2_promo_drives_treatment_T208_r01,B offset base + tendencia,-0.04175402657419613
+S2_promo_drives_treatment_T208_r01,C offset base + Fourier,-0.04608494488364107
+S2_promo_drives_treatment_T208_r01,D offset base + tendencia + Fourier,-0.04160014616481006
+S2_promo_drives_treatment_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.05527742046059521
+S2_promo_drives_treatment_T208_r02,"A offset base, sin calendario",0.0003965183168130243
+S2_promo_drives_treatment_T208_r02,B offset base + tendencia,0.00046585243696979113
+S2_promo_drives_treatment_T208_r02,C offset base + Fourier,0.0034208990486888284
+S2_promo_drives_treatment_T208_r02,D offset base + tendencia + Fourier,0.0036754757291686123
+S2_promo_drives_treatment_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.005568846739679289
+S2_promo_drives_treatment_T208_r02,"A offset base, sin calendario",-0.0026601799072116855
+S2_promo_drives_treatment_T208_r02,B offset base + tendencia,-0.0028912238103241637
+S2_promo_drives_treatment_T208_r02,C offset base + Fourier,-0.003918433765287992
+S2_promo_drives_treatment_T208_r02,D offset base + tendencia + Fourier,-0.004848800262597266
+S2_promo_drives_treatment_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.007826794716835067
+S2_promo_drives_treatment_T208_r02,"A offset base, sin calendario",-0.03556983422645912
+S2_promo_drives_treatment_T208_r02,B offset base + tendencia,-0.03526494740999364
+S2_promo_drives_treatment_T208_r02,C offset base + Fourier,-0.037811337383375845
+S2_promo_drives_treatment_T208_r02,D offset base + tendencia + Fourier,-0.03690998551036679
+S2_promo_drives_treatment_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.003530532810072697
+S2_promo_drives_treatment_T208_r02,"A offset base, sin calendario",-0.15769521093775055
+S2_promo_drives_treatment_T208_r02,B offset base + tendencia,-0.15922105142091353
+S2_promo_drives_treatment_T208_r02,C offset base + Fourier,-0.17206276037741894
+S2_promo_drives_treatment_T208_r02,D offset base + tendencia + Fourier,-0.1795235306073677
+S2_promo_drives_treatment_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.21940241793197415
+S2_promo_drives_treatment_T52_r00,"A offset base, sin calendario",-0.0007068673090006813
+S2_promo_drives_treatment_T52_r00,B offset base + tendencia,-0.002164059645714746
+S2_promo_drives_treatment_T52_r00,C offset base + Fourier,0.024137543886623397
+S2_promo_drives_treatment_T52_r00,D offset base + tendencia + Fourier,0.01999178337886405
+S2_promo_drives_treatment_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.02116400438919245
+S2_promo_drives_treatment_T52_r00,"A offset base, sin calendario",-0.07506696423464454
+S2_promo_drives_treatment_T52_r00,B offset base + tendencia,-0.07789986240318962
+S2_promo_drives_treatment_T52_r00,C offset base + Fourier,-0.04910700680474504
+S2_promo_drives_treatment_T52_r00,D offset base + tendencia + Fourier,-0.04156562192380937
+S2_promo_drives_treatment_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.028229995344850243
+S2_promo_drives_treatment_T52_r00,"A offset base, sin calendario",0.0009025587901207042
+S2_promo_drives_treatment_T52_r00,B offset base + tendencia,-0.002726487403680885
+S2_promo_drives_treatment_T52_r00,C offset base + Fourier,-0.017878289476286634
+S2_promo_drives_treatment_T52_r00,D offset base + tendencia + Fourier,-0.006914660630922743
+S2_promo_drives_treatment_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.0084876761338199
+S2_promo_drives_treatment_T52_r00,"A offset base, sin calendario",-0.020514158317933018
+S2_promo_drives_treatment_T52_r00,B offset base + tendencia,-0.021070742969782365
+S2_promo_drives_treatment_T52_r00,C offset base + Fourier,-0.06011721451316547
+S2_promo_drives_treatment_T52_r00,D offset base + tendencia + Fourier,-0.01855788866545309
+S2_promo_drives_treatment_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.018660604900562556
+S2_promo_drives_treatment_T52_r01,"A offset base, sin calendario",-0.060236268512357534
+S2_promo_drives_treatment_T52_r01,B offset base + tendencia,-0.04500896008000556
+S2_promo_drives_treatment_T52_r01,C offset base + Fourier,-0.047512107332690616
+S2_promo_drives_treatment_T52_r01,D offset base + tendencia + Fourier,-0.036301725810358995
+S2_promo_drives_treatment_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.033974214985987544
+S2_promo_drives_treatment_T52_r01,"A offset base, sin calendario",-0.004490217921443874
+S2_promo_drives_treatment_T52_r01,B offset base + tendencia,0.0008513605250329747
+S2_promo_drives_treatment_T52_r01,C offset base + Fourier,-0.009109653645935996
+S2_promo_drives_treatment_T52_r01,D offset base + tendencia + Fourier,-0.004812452771670492
+S2_promo_drives_treatment_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.004028219573994426
+S2_promo_drives_treatment_T52_r01,"A offset base, sin calendario",-0.010962365937316483
+S2_promo_drives_treatment_T52_r01,B offset base + tendencia,-0.00786104243200768
+S2_promo_drives_treatment_T52_r01,C offset base + Fourier,-0.004312829648867569
+S2_promo_drives_treatment_T52_r01,D offset base + tendencia + Fourier,-0.0016005280071883963
+S2_promo_drives_treatment_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.002116047815485092
+S2_promo_drives_treatment_T52_r01,"A offset base, sin calendario",-0.06932358720170433
+S2_promo_drives_treatment_T52_r01,B offset base + tendencia,-0.07462079797203074
+S2_promo_drives_treatment_T52_r01,C offset base + Fourier,-0.10655494895646096
+S2_promo_drives_treatment_T52_r01,D offset base + tendencia + Fourier,-0.05269388188576368
+S2_promo_drives_treatment_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.06335994546620735
+S2_promo_drives_treatment_T52_r02,"A offset base, sin calendario",0.01123822532958979
+S2_promo_drives_treatment_T52_r02,B offset base + tendencia,0.008515376665083427
+S2_promo_drives_treatment_T52_r02,C offset base + Fourier,0.0086017174928289
+S2_promo_drives_treatment_T52_r02,D offset base + tendencia + Fourier,0.012533189544931727
+S2_promo_drives_treatment_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.014379228071832059
+S2_promo_drives_treatment_T52_r02,"A offset base, sin calendario",0.018893842296700946
+S2_promo_drives_treatment_T52_r02,B offset base + tendencia,0.01960425591994423
+S2_promo_drives_treatment_T52_r02,C offset base + Fourier,0.019933914206449035
+S2_promo_drives_treatment_T52_r02,D offset base + tendencia + Fourier,0.020622402330209153
+S2_promo_drives_treatment_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.023416598189417992
+S2_promo_drives_treatment_T52_r02,"A offset base, sin calendario",-0.041906397512427154
+S2_promo_drives_treatment_T52_r02,B offset base + tendencia,-0.05503063654983743
+S2_promo_drives_treatment_T52_r02,C offset base + Fourier,-0.04986730706598993
+S2_promo_drives_treatment_T52_r02,D offset base + tendencia + Fourier,-0.02891078568213549
+S2_promo_drives_treatment_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.026106039343869108
+S2_promo_drives_treatment_T52_r02,"A offset base, sin calendario",-0.05904416246617937
+S2_promo_drives_treatment_T52_r02,B offset base + tendencia,-0.058088898235637926
+S2_promo_drives_treatment_T52_r02,C offset base + Fourier,-0.04058391796571999
+S2_promo_drives_treatment_T52_r02,D offset base + tendencia + Fourier,0.0026576469735687153
+S2_promo_drives_treatment_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.004661686654963419
+S3_treatment_halo_T104_r00,"A offset base, sin calendario",-0.05129818405178608
+S3_treatment_halo_T104_r00,B offset base + tendencia,-0.05156785553943504
+S3_treatment_halo_T104_r00,C offset base + Fourier,-0.052116922960996494
+S3_treatment_halo_T104_r00,D offset base + tendencia + Fourier,-0.05211274301524394
+S3_treatment_halo_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.07726530960713103
+S3_treatment_halo_T104_r00,"A offset base, sin calendario",-0.013615654745944318
+S3_treatment_halo_T104_r00,B offset base + tendencia,-0.013629287427098503
+S3_treatment_halo_T104_r00,C offset base + Fourier,-0.00732480676990732
+S3_treatment_halo_T104_r00,D offset base + tendencia + Fourier,-0.0073238872187396725
+S3_treatment_halo_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.0028229240721731183
+S3_treatment_halo_T104_r00,"A offset base, sin calendario",-0.011858440771519683
+S3_treatment_halo_T104_r00,B offset base + tendencia,-0.011579796448639745
+S3_treatment_halo_T104_r00,C offset base + Fourier,-0.012165012259641237
+S3_treatment_halo_T104_r00,D offset base + tendencia + Fourier,-0.01216733771030139
+S3_treatment_halo_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.017728066620789292
+S3_treatment_halo_T104_r01,"A offset base, sin calendario",-0.035217169520456525
+S3_treatment_halo_T104_r01,B offset base + tendencia,-0.04401434880909384
+S3_treatment_halo_T104_r01,C offset base + Fourier,-0.06603320545235795
+S3_treatment_halo_T104_r01,D offset base + tendencia + Fourier,-0.07739018710489992
+S3_treatment_halo_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.07141564401881703
+S3_treatment_halo_T104_r01,"A offset base, sin calendario",0.019623445754596125
+S3_treatment_halo_T104_r01,B offset base + tendencia,0.011643232570984199
+S3_treatment_halo_T104_r01,C offset base + Fourier,0.006100619093372319
+S3_treatment_halo_T104_r01,D offset base + tendencia + Fourier,-0.0030387493338061844
+S3_treatment_halo_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.0032244415125367593
+S3_treatment_halo_T104_r01,"A offset base, sin calendario",-0.11814478382143036
+S3_treatment_halo_T104_r01,B offset base + tendencia,-0.12978356856715156
+S3_treatment_halo_T104_r01,C offset base + Fourier,-0.09965595023116701
+S3_treatment_halo_T104_r01,D offset base + tendencia + Fourier,-0.10835841952802647
+S3_treatment_halo_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.1217516233234735
+S3_treatment_halo_T104_r02,"A offset base, sin calendario",-0.032510151766010964
+S3_treatment_halo_T104_r02,B offset base + tendencia,-0.019244307871488984
+S3_treatment_halo_T104_r02,C offset base + Fourier,-0.037246781146933444
+S3_treatment_halo_T104_r02,D offset base + tendencia + Fourier,-0.027760017740757488
+S3_treatment_halo_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.009363062190425674
+S3_treatment_halo_T104_r02,"A offset base, sin calendario",0.0038677937061026403
+S3_treatment_halo_T104_r02,B offset base + tendencia,0.00745550513012927
+S3_treatment_halo_T104_r02,C offset base + Fourier,-0.003585192983163695
+S3_treatment_halo_T104_r02,D offset base + tendencia + Fourier,0.0005831742574704348
+S3_treatment_halo_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.03634758103639794
+S3_treatment_halo_T104_r02,"A offset base, sin calendario",-0.02038509025411725
+S3_treatment_halo_T104_r02,B offset base + tendencia,-0.02384218112242398
+S3_treatment_halo_T104_r02,C offset base + Fourier,-0.018873699236070823
+S3_treatment_halo_T104_r02,D offset base + tendencia + Fourier,-0.021239179162995413
+S3_treatment_halo_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.02294105178779537
+S3_treatment_halo_T208_r00,"A offset base, sin calendario",-0.013311804831077797
+S3_treatment_halo_T208_r00,B offset base + tendencia,-0.004174636545048417
+S3_treatment_halo_T208_r00,C offset base + Fourier,-0.013166904534618759
+S3_treatment_halo_T208_r00,D offset base + tendencia + Fourier,-0.003846455107664819
+S3_treatment_halo_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.013752037091104426
+S3_treatment_halo_T208_r00,"A offset base, sin calendario",-0.028640306849927997
+S3_treatment_halo_T208_r00,B offset base + tendencia,-0.02607333550387083
+S3_treatment_halo_T208_r00,C offset base + Fourier,-0.029546636777420966
+S3_treatment_halo_T208_r00,D offset base + tendencia + Fourier,-0.02683994383087775
+S3_treatment_halo_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.04358501251703763
+S3_treatment_halo_T208_r00,"A offset base, sin calendario",-0.0032780888360687366
+S3_treatment_halo_T208_r00,B offset base + tendencia,-0.0028870593019949256
+S3_treatment_halo_T208_r00,C offset base + Fourier,-0.0032029403052609667
+S3_treatment_halo_T208_r00,D offset base + tendencia + Fourier,-0.002958749881486229
+S3_treatment_halo_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.008279330423932115
+S3_treatment_halo_T208_r01,"A offset base, sin calendario",0.0004506060261258426
+S3_treatment_halo_T208_r01,B offset base + tendencia,-0.0005964964401478224
+S3_treatment_halo_T208_r01,C offset base + Fourier,0.000688396379484261
+S3_treatment_halo_T208_r01,D offset base + tendencia + Fourier,-0.0007082371824030607
+S3_treatment_halo_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.011690524820284745
+S3_treatment_halo_T208_r01,"A offset base, sin calendario",-0.003250696380531261
+S3_treatment_halo_T208_r01,B offset base + tendencia,0.0017850666283512802
+S3_treatment_halo_T208_r01,C offset base + Fourier,-0.007816114723876803
+S3_treatment_halo_T208_r01,D offset base + tendencia + Fourier,-0.0015419027530355356
+S3_treatment_halo_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.005593101131121059
+S3_treatment_halo_T208_r01,"A offset base, sin calendario",-0.0027324952892542258
+S3_treatment_halo_T208_r01,B offset base + tendencia,-0.004682153311437915
+S3_treatment_halo_T208_r01,C offset base + Fourier,0.0010496682881370129
+S3_treatment_halo_T208_r01,D offset base + tendencia + Fourier,-0.0015373020826766296
+S3_treatment_halo_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.0014429464001264188
+S3_treatment_halo_T208_r02,"A offset base, sin calendario",-0.014498221985486805
+S3_treatment_halo_T208_r02,B offset base + tendencia,-0.013653337934687983
+S3_treatment_halo_T208_r02,C offset base + Fourier,-0.015305784818132153
+S3_treatment_halo_T208_r02,D offset base + tendencia + Fourier,-0.014244881798703597
+S3_treatment_halo_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.03250165230165203
+S3_treatment_halo_T208_r02,"A offset base, sin calendario",-0.03565964297554242
+S3_treatment_halo_T208_r02,B offset base + tendencia,-0.028919075960747304
+S3_treatment_halo_T208_r02,C offset base + Fourier,-0.0469447487005259
+S3_treatment_halo_T208_r02,D offset base + tendencia + Fourier,-0.03948369652096499
+S3_treatment_halo_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.006136294203978693
+S3_treatment_halo_T208_r02,"A offset base, sin calendario",0.010926716379311788
+S3_treatment_halo_T208_r02,B offset base + tendencia,0.011646293853966129
+S3_treatment_halo_T208_r02,C offset base + Fourier,0.012527700231121597
+S3_treatment_halo_T208_r02,D offset base + tendencia + Fourier,0.013866164923325352
+S3_treatment_halo_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.016983969989870243
+S3_treatment_halo_T52_r00,"A offset base, sin calendario",0.007589777977774727
+S3_treatment_halo_T52_r00,B offset base + tendencia,0.004526571121419484
+S3_treatment_halo_T52_r00,C offset base + Fourier,0.00806575306668322
+S3_treatment_halo_T52_r00,D offset base + tendencia + Fourier,0.0045464758705055395
+S3_treatment_halo_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.003660315704555197
+S3_treatment_halo_T52_r00,"A offset base, sin calendario",0.0004423832619229641
+S3_treatment_halo_T52_r00,B offset base + tendencia,0.0014513287015972117
+S3_treatment_halo_T52_r00,C offset base + Fourier,-0.0014782168096016592
+S3_treatment_halo_T52_r00,D offset base + tendencia + Fourier,-0.0017221546314929123
+S3_treatment_halo_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-6.827192510755933e-05
+S3_treatment_halo_T52_r00,"A offset base, sin calendario",-0.03773935034872734
+S3_treatment_halo_T52_r00,B offset base + tendencia,-0.042105718799490745
+S3_treatment_halo_T52_r00,C offset base + Fourier,-0.0413549913140081
+S3_treatment_halo_T52_r00,D offset base + tendencia + Fourier,-0.03073441894107692
+S3_treatment_halo_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.027799441689317743
+S3_treatment_halo_T52_r01,"A offset base, sin calendario",-0.023546610234155777
+S3_treatment_halo_T52_r01,B offset base + tendencia,-0.011782254815687954
+S3_treatment_halo_T52_r01,C offset base + Fourier,-0.0035781669272467137
+S3_treatment_halo_T52_r01,D offset base + tendencia + Fourier,0.014732921054994326
+S3_treatment_halo_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.0025042204947557938
+S3_treatment_halo_T52_r01,"A offset base, sin calendario",-0.013552235892047187
+S3_treatment_halo_T52_r01,B offset base + tendencia,-0.017954657193418582
+S3_treatment_halo_T52_r01,C offset base + Fourier,-0.01729804021559577
+S3_treatment_halo_T52_r01,D offset base + tendencia + Fourier,-0.016482311755364135
+S3_treatment_halo_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.023820949486281048
+S3_treatment_halo_T52_r01,"A offset base, sin calendario",-0.01578983061872139
+S3_treatment_halo_T52_r01,B offset base + tendencia,-0.019884256982617737
+S3_treatment_halo_T52_r01,C offset base + Fourier,-0.060659740975469036
+S3_treatment_halo_T52_r01,D offset base + tendencia + Fourier,-0.05464652577431084
+S3_treatment_halo_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.06179039171750488
+S3_treatment_halo_T52_r02,"A offset base, sin calendario",0.01424882544485842
+S3_treatment_halo_T52_r02,B offset base + tendencia,0.01385066906951652
+S3_treatment_halo_T52_r02,C offset base + Fourier,-0.02282667827392114
+S3_treatment_halo_T52_r02,D offset base + tendencia + Fourier,0.004354932995654966
+S3_treatment_halo_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.010942144192623156
+S3_treatment_halo_T52_r02,"A offset base, sin calendario",-0.03761252792014827
+S3_treatment_halo_T52_r02,B offset base + tendencia,-0.040070374074480275
+S3_treatment_halo_T52_r02,C offset base + Fourier,-0.01844497570277656
+S3_treatment_halo_T52_r02,D offset base + tendencia + Fourier,0.005183786099540771
+S3_treatment_halo_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.011274816208852588
+S3_treatment_halo_T52_r02,"A offset base, sin calendario",-0.026138157389509534
+S3_treatment_halo_T52_r02,B offset base + tendencia,-0.042644065897416546
+S3_treatment_halo_T52_r02,C offset base + Fourier,-0.008319580060756707
+S3_treatment_halo_T52_r02,D offset base + tendencia + Fourier,0.015674029867627733
+S3_treatment_halo_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.014599819933521371
+S4_kitchen_sink_T104_r00,"A offset base, sin calendario",-0.1594844940914458
+S4_kitchen_sink_T104_r00,B offset base + tendencia,-0.16317463647545738
+S4_kitchen_sink_T104_r00,C offset base + Fourier,-0.16693341062033365
+S4_kitchen_sink_T104_r00,D offset base + tendencia + Fourier,-0.1668945073631197
+S4_kitchen_sink_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.21124565928841638
+S4_kitchen_sink_T104_r00,"A offset base, sin calendario",-0.01850800748681157
+S4_kitchen_sink_T104_r00,B offset base + tendencia,-0.01805666501383428
+S4_kitchen_sink_T104_r00,C offset base + Fourier,-0.010174389406995494
+S4_kitchen_sink_T104_r00,D offset base + tendencia + Fourier,-0.010148322270116285
+S4_kitchen_sink_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.005949174161245509
+S4_kitchen_sink_T104_r00,"A offset base, sin calendario",-0.015007911182608233
+S4_kitchen_sink_T104_r00,B offset base + tendencia,-0.018054773993999726
+S4_kitchen_sink_T104_r00,C offset base + Fourier,-0.00721365469507184
+S4_kitchen_sink_T104_r00,D offset base + tendencia + Fourier,-0.007121912190932027
+S4_kitchen_sink_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.0067261025524319425
+S4_kitchen_sink_T104_r00,"A offset base, sin calendario",-0.03300068586376813
+S4_kitchen_sink_T104_r00,B offset base + tendencia,-0.02680394901861288
+S4_kitchen_sink_T104_r00,C offset base + Fourier,-0.0421220237002713
+S4_kitchen_sink_T104_r00,D offset base + tendencia + Fourier,-0.04231772972335098
+S4_kitchen_sink_T104_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.029752100650259267
+S4_kitchen_sink_T104_r01,"A offset base, sin calendario",-0.0065835082993851175
+S4_kitchen_sink_T104_r01,B offset base + tendencia,-0.007544411045718867
+S4_kitchen_sink_T104_r01,C offset base + Fourier,-0.009625529567547348
+S4_kitchen_sink_T104_r01,D offset base + tendencia + Fourier,-0.008941325104075793
+S4_kitchen_sink_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.0068856022186307075
+S4_kitchen_sink_T104_r01,"A offset base, sin calendario",-0.024671651904306258
+S4_kitchen_sink_T104_r01,B offset base + tendencia,-0.018610604213898308
+S4_kitchen_sink_T104_r01,C offset base + Fourier,-0.025990049063046233
+S4_kitchen_sink_T104_r01,D offset base + tendencia + Fourier,-0.012100654677900358
+S4_kitchen_sink_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.00588140383880863
+S4_kitchen_sink_T104_r01,"A offset base, sin calendario",-0.016450987866034446
+S4_kitchen_sink_T104_r01,B offset base + tendencia,-0.017580215979982522
+S4_kitchen_sink_T104_r01,C offset base + Fourier,-0.009142831409313195
+S4_kitchen_sink_T104_r01,D offset base + tendencia + Fourier,-0.01438187343857106
+S4_kitchen_sink_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.019867613803267493
+S4_kitchen_sink_T104_r01,"A offset base, sin calendario",-0.3546631141911709
+S4_kitchen_sink_T104_r01,B offset base + tendencia,-0.350869024590486
+S4_kitchen_sink_T104_r01,C offset base + Fourier,-0.35773769320735144
+S4_kitchen_sink_T104_r01,D offset base + tendencia + Fourier,-0.35616311600175643
+S4_kitchen_sink_T104_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.35924209821431935
+S4_kitchen_sink_T104_r02,"A offset base, sin calendario",-0.006656070293187777
+S4_kitchen_sink_T104_r02,B offset base + tendencia,-0.012963573481261969
+S4_kitchen_sink_T104_r02,C offset base + Fourier,-0.006941783367089378
+S4_kitchen_sink_T104_r02,D offset base + tendencia + Fourier,-0.01258117299209538
+S4_kitchen_sink_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.009278967380204665
+S4_kitchen_sink_T104_r02,"A offset base, sin calendario",0.003335890565401979
+S4_kitchen_sink_T104_r02,B offset base + tendencia,0.001965767895855236
+S4_kitchen_sink_T104_r02,C offset base + Fourier,0.0020653006752760637
+S4_kitchen_sink_T104_r02,D offset base + tendencia + Fourier,0.0018299323121918705
+S4_kitchen_sink_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.001082627664669661
+S4_kitchen_sink_T104_r02,"A offset base, sin calendario",-0.005359811288914671
+S4_kitchen_sink_T104_r02,B offset base + tendencia,-0.006035648195389443
+S4_kitchen_sink_T104_r02,C offset base + Fourier,-0.008660640707114184
+S4_kitchen_sink_T104_r02,D offset base + tendencia + Fourier,-0.007729611879144823
+S4_kitchen_sink_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.006222822679084273
+S4_kitchen_sink_T104_r02,"A offset base, sin calendario",-0.012970524721120934
+S4_kitchen_sink_T104_r02,B offset base + tendencia,-0.01712135630885519
+S4_kitchen_sink_T104_r02,C offset base + Fourier,-0.01607714422827162
+S4_kitchen_sink_T104_r02,D offset base + tendencia + Fourier,-0.02333745823200129
+S4_kitchen_sink_T104_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.01761918084709329
+S4_kitchen_sink_T208_r00,"A offset base, sin calendario",0.00669707515290893
+S4_kitchen_sink_T208_r00,B offset base + tendencia,0.005231135443977846
+S4_kitchen_sink_T208_r00,C offset base + Fourier,0.004165398388364366
+S4_kitchen_sink_T208_r00,D offset base + tendencia + Fourier,0.0035822694906991032
+S4_kitchen_sink_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.005521775602895406
+S4_kitchen_sink_T208_r00,"A offset base, sin calendario",-0.002882437198014233
+S4_kitchen_sink_T208_r00,B offset base + tendencia,-0.0052303406389778385
+S4_kitchen_sink_T208_r00,C offset base + Fourier,-0.006511694953966968
+S4_kitchen_sink_T208_r00,D offset base + tendencia + Fourier,-0.0052006390443617625
+S4_kitchen_sink_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.021940425381790328
+S4_kitchen_sink_T208_r00,"A offset base, sin calendario",-0.010995439653439663
+S4_kitchen_sink_T208_r00,B offset base + tendencia,0.002186618874208427
+S4_kitchen_sink_T208_r00,C offset base + Fourier,-0.004963256966063397
+S4_kitchen_sink_T208_r00,D offset base + tendencia + Fourier,0.0059281388453650856
+S4_kitchen_sink_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.01861424479312104
+S4_kitchen_sink_T208_r00,"A offset base, sin calendario",-0.06637157486963227
+S4_kitchen_sink_T208_r00,B offset base + tendencia,-0.06038731076264381
+S4_kitchen_sink_T208_r00,C offset base + Fourier,-0.06523061604043232
+S4_kitchen_sink_T208_r00,D offset base + tendencia + Fourier,-0.06190377770974103
+S4_kitchen_sink_T208_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.05167390495169272
+S4_kitchen_sink_T208_r01,"A offset base, sin calendario",-0.0181500481465162
+S4_kitchen_sink_T208_r01,B offset base + tendencia,-0.0228316219536577
+S4_kitchen_sink_T208_r01,C offset base + Fourier,-0.02057542678595216
+S4_kitchen_sink_T208_r01,D offset base + tendencia + Fourier,-0.026487221213301517
+S4_kitchen_sink_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.015340816881372949
+S4_kitchen_sink_T208_r01,"A offset base, sin calendario",-0.0037721394234980997
+S4_kitchen_sink_T208_r01,B offset base + tendencia,-0.003204802000622961
+S4_kitchen_sink_T208_r01,C offset base + Fourier,-0.008419932766888108
+S4_kitchen_sink_T208_r01,D offset base + tendencia + Fourier,-0.006975683432709909
+S4_kitchen_sink_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.010854554335836772
+S4_kitchen_sink_T208_r01,"A offset base, sin calendario",-0.021306101213665007
+S4_kitchen_sink_T208_r01,B offset base + tendencia,-0.01207116424067454
+S4_kitchen_sink_T208_r01,C offset base + Fourier,-0.024862697407462744
+S4_kitchen_sink_T208_r01,D offset base + tendencia + Fourier,-0.016818427306886256
+S4_kitchen_sink_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.004444902585963418
+S4_kitchen_sink_T208_r01,"A offset base, sin calendario",-0.0008924904988675904
+S4_kitchen_sink_T208_r01,B offset base + tendencia,0.0019545151867207157
+S4_kitchen_sink_T208_r01,C offset base + Fourier,0.00023446485896968098
+S4_kitchen_sink_T208_r01,D offset base + tendencia + Fourier,0.0031307280190634107
+S4_kitchen_sink_T208_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.0004883264415041608
+S4_kitchen_sink_T208_r02,"A offset base, sin calendario",0.014289521685928716
+S4_kitchen_sink_T208_r02,B offset base + tendencia,0.012351818127423343
+S4_kitchen_sink_T208_r02,C offset base + Fourier,0.010720059818496202
+S4_kitchen_sink_T208_r02,D offset base + tendencia + Fourier,0.00963524540691359
+S4_kitchen_sink_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),0.027937215092236203
+S4_kitchen_sink_T208_r02,"A offset base, sin calendario",-0.2184935048480467
+S4_kitchen_sink_T208_r02,B offset base + tendencia,-0.2171079142014965
+S4_kitchen_sink_T208_r02,C offset base + Fourier,-0.20480627052717573
+S4_kitchen_sink_T208_r02,D offset base + tendencia + Fourier,-0.20421783449903283
+S4_kitchen_sink_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.22378915037226232
+S4_kitchen_sink_T208_r02,"A offset base, sin calendario",-0.02963287883473527
+S4_kitchen_sink_T208_r02,B offset base + tendencia,-0.029573814683480932
+S4_kitchen_sink_T208_r02,C offset base + Fourier,-0.037801745105930686
+S4_kitchen_sink_T208_r02,D offset base + tendencia + Fourier,-0.03755304650665175
+S4_kitchen_sink_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.001679826708495062
+S4_kitchen_sink_T208_r02,"A offset base, sin calendario",-0.026460794724288274
+S4_kitchen_sink_T208_r02,B offset base + tendencia,-0.029532939661832028
+S4_kitchen_sink_T208_r02,C offset base + Fourier,-0.03206665064922758
+S4_kitchen_sink_T208_r02,D offset base + tendencia + Fourier,-0.0336260087541453
+S4_kitchen_sink_T208_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.06099406108739694
+S4_kitchen_sink_T52_r00,"A offset base, sin calendario",-0.031072355800271647
+S4_kitchen_sink_T52_r00,B offset base + tendencia,-0.03125365520166875
+S4_kitchen_sink_T52_r00,C offset base + Fourier,0.00038678261704575955
+S4_kitchen_sink_T52_r00,D offset base + tendencia + Fourier,-0.0020516334071799054
+S4_kitchen_sink_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.016800937559969167
+S4_kitchen_sink_T52_r00,"A offset base, sin calendario",-0.09521140507789086
+S4_kitchen_sink_T52_r00,B offset base + tendencia,-0.09519799867082397
+S4_kitchen_sink_T52_r00,C offset base + Fourier,-0.17743876156004135
+S4_kitchen_sink_T52_r00,D offset base + tendencia + Fourier,-0.09211444023467678
+S4_kitchen_sink_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.058637714500852076
+S4_kitchen_sink_T52_r00,"A offset base, sin calendario",-0.0023421335150877764
+S4_kitchen_sink_T52_r00,B offset base + tendencia,-0.0023264331312312907
+S4_kitchen_sink_T52_r00,C offset base + Fourier,0.0039669907992614046
+S4_kitchen_sink_T52_r00,D offset base + tendencia + Fourier,-0.0002309861247755795
+S4_kitchen_sink_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),0.008399603886234617
+S4_kitchen_sink_T52_r00,"A offset base, sin calendario",-0.035948741155249694
+S4_kitchen_sink_T52_r00,B offset base + tendencia,-0.03585454159535183
+S4_kitchen_sink_T52_r00,C offset base + Fourier,-0.019150479237901346
+S4_kitchen_sink_T52_r00,D offset base + tendencia + Fourier,-0.011331531326795435
+S4_kitchen_sink_T52_r00,E sin offset: Z + tendencia + Fourier (= M2p),-0.0325013050331761
+S4_kitchen_sink_T52_r01,"A offset base, sin calendario",0.010785434363628695
+S4_kitchen_sink_T52_r01,B offset base + tendencia,0.04782835543104959
+S4_kitchen_sink_T52_r01,C offset base + Fourier,-0.0038805304203795364
+S4_kitchen_sink_T52_r01,D offset base + tendencia + Fourier,-0.0016200971875449555
+S4_kitchen_sink_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),0.002223069642097821
+S4_kitchen_sink_T52_r01,"A offset base, sin calendario",-0.15854773027943314
+S4_kitchen_sink_T52_r01,B offset base + tendencia,-0.10220677802519636
+S4_kitchen_sink_T52_r01,C offset base + Fourier,-0.06571314609015498
+S4_kitchen_sink_T52_r01,D offset base + tendencia + Fourier,-0.03887727301717375
+S4_kitchen_sink_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.018924787522304455
+S4_kitchen_sink_T52_r01,"A offset base, sin calendario",-0.07489916169569934
+S4_kitchen_sink_T52_r01,B offset base + tendencia,-0.1108631990178339
+S4_kitchen_sink_T52_r01,C offset base + Fourier,-0.11934005864729615
+S4_kitchen_sink_T52_r01,D offset base + tendencia + Fourier,-0.0808691278749632
+S4_kitchen_sink_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.1345354274957388
+S4_kitchen_sink_T52_r01,"A offset base, sin calendario",-0.01943922105194347
+S4_kitchen_sink_T52_r01,B offset base + tendencia,-0.020718790062420823
+S4_kitchen_sink_T52_r01,C offset base + Fourier,-0.018947767605774147
+S4_kitchen_sink_T52_r01,D offset base + tendencia + Fourier,-0.013998293932913155
+S4_kitchen_sink_T52_r01,E sin offset: Z + tendencia + Fourier (= M2p),-0.015031504800396006
+S4_kitchen_sink_T52_r02,"A offset base, sin calendario",-0.009087146835143441
+S4_kitchen_sink_T52_r02,B offset base + tendencia,0.0032784318808125753
+S4_kitchen_sink_T52_r02,C offset base + Fourier,0.019567187091371733
+S4_kitchen_sink_T52_r02,D offset base + tendencia + Fourier,0.012439431276381883
+S4_kitchen_sink_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.000919673030624725
+S4_kitchen_sink_T52_r02,"A offset base, sin calendario",-0.04105718776672704
+S4_kitchen_sink_T52_r02,B offset base + tendencia,-0.05264417584308829
+S4_kitchen_sink_T52_r02,C offset base + Fourier,-0.022243179830176384
+S4_kitchen_sink_T52_r02,D offset base + tendencia + Fourier,-0.017589339661220074
+S4_kitchen_sink_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.027291584257368082
+S4_kitchen_sink_T52_r02,"A offset base, sin calendario",-0.0030571995734339024
+S4_kitchen_sink_T52_r02,B offset base + tendencia,-0.0025966842939422453
+S4_kitchen_sink_T52_r02,C offset base + Fourier,0.0011840257333567373
+S4_kitchen_sink_T52_r02,D offset base + tendencia + Fourier,-0.0017384250236569276
+S4_kitchen_sink_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.001043581331360958
+S4_kitchen_sink_T52_r02,"A offset base, sin calendario",-0.010990165531110168
+S4_kitchen_sink_T52_r02,B offset base + tendencia,-0.010814278461109716
+S4_kitchen_sink_T52_r02,C offset base + Fourier,-0.012162089195667285
+S4_kitchen_sink_T52_r02,D offset base + tendencia + Fourier,-0.008025625910080745
+S4_kitchen_sink_T52_r02,E sin offset: Z + tendencia + Fourier (= M2p),-0.006960451965914277

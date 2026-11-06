@@ -1,0 +1,11 @@
+A,B,fit_window,n_worlds,mean_A_minus_B,ci95
+M0_ols,M2_adstock_sat,week0 (v1),150,-0.02341802665069153,"[-0.0306, -0.0164]"
+M0_ols,M2_adstock_sat,week8 (v1.2),150,-0.037091109901707595,"[-0.0490, -0.0267]"
+M1_ridge,M0_ols,week0 (v1),150,0.00312946987231399,"[0.0020, 0.0044]"
+M1_ridge,M0_ols,week8 (v1.2),150,0.0027331430463932434,"[0.0016, 0.0039]"
+M2_adstock_sat,M2_adstock_sat_noZ,week0 (v1),150,-0.0404462862454497,"[-0.0542, -0.0278]"
+M2_adstock_sat,M2_adstock_sat_noZ,week8 (v1.2),150,-0.046234910658579716,"[-0.0654, -0.0272]"
+M2_adstock_sat,M2p_true_transforms,week0 (v1),150,0.04265882176504089,"[0.0364, 0.0493]"
+M2_adstock_sat,M2p_true_transforms,week8 (v1.2),150,0.0824067577760284,"[0.0711, 0.0949]"
+M2p_true_transforms,M2p_true_transforms_plus_D,week0 (v1),150,0.006457671438965327,"[0.0041, 0.0089]"
+M2p_true_transforms,M2p_true_transforms_plus_D,week8 (v1.2),150,0.009908433895688159,"[0.0075, 0.0127]"
